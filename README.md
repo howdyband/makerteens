@@ -27,13 +27,7 @@ Measure 98 provides $800 ($400 as of May 2017) per high school student allocatio
 
 * * *
 
-**Homework**:  
-It is expected that MAKERTEENS will track daily household chores and music practice. In a type of "flipped class" students are expected to read assignments at home in preparation for class discussions and activities. Most importantly, each student is expected to demonstrate ownership of their individualized, constructivist education, by contributing to our online collaborative forum, reflecting on learning, posing deep questions, suggesting research resources, as we encourage each other in our quest toward healthy minds and habits.
 
-**Grades**:  
-Timely, authentic, formative feedback is provided with rubrics that vitalize ownership and productive learning. Proficiency based grading allows students to demonstrate competencies in a variety of ways. Portfolios of evidence, industry certificates, and well defined badges, are objective verifications of knowledge and work skills.
-
-MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as employees, and practice for college admission interviews in order to effectively thrive in any potential contingency. Above-all, MAKERTEENS are trained to grade themselves along their quest to package their lives as a gift to their current and future friends, family, and community. In the process of life, grades on extrinsic behaviors cannot accurately approximate the true value of intrinsic habits of mind.
 
 **Rational for self-contained “school within a school” program**  
 Evidence suggests smaller learning communities can boost student achievement, improve attendance rates, decrease disciplinary referrals, and raise self-esteem. (Kemple, 2006)
@@ -52,8 +46,8 @@ The alternative education teacher is not a lone ranger but is seen as a team mem
 A self-contained alternative education program within a traditional school has the intrinsic danger of stigma. Additionally, the risk factors from inappropriate peer associations may be compounded. Disengagement with “normal” school activities can accelerate the tendency to drop out of school. A concentration of impulsive youth with negative attitudes can feed on each other in an escalation of poor behaviors and general rebelliousness. For the uninitiated, being regularly exposed to delinquency may be a gateway to illicit substance abuse, pornography, foul language, and a host of other behaviors in a type of prison yard training ground.  
 However, teacher awareness of such potential to downward spiral, empowers the teacher to nip problems in the bud, redirect negative energy, maintain firm expectations and supports for success, and immediately trouble shoot the function of counter-productive behaviors by collaborating with parents, colleagues, and students as appropriate.
 
-**Rules**:  
-Students must abide by school's student code handbook in order to remain in the program. However, when permitted, peer- mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
+
+MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as employees, and practice for college admission interviews in order to effectively thrive in any potential contingency. Above-all, MAKERTEENS are trained to grade themselves along their quest to package their lives as a gift to their current and future friends, family, and community. In the process of life, grades on extrinsic behaviors cannot accurately approximate the true value of intrinsic habits of mind.
 
 **Career Readiness: Habits of Mind**  
 Researchers and policy makers have tried to elucidate the “habits of mind” needed for success in college and career. Components include demonstration of: being a team player, inquisitive intellectual openness, self advocacy, and the organized ability of productive time management. The work of Arthur Costa (2008) suggests a comprehensive focus on 16 habits of mind:  
