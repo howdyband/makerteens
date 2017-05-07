@@ -1,6 +1,13 @@
-# Measure 98
-
-[people](people.md)
+# High School Graduation and College & Career Readiness Act of 2016 
+<br>
+(Measure 98)
+MAKERTEENS Menu:
+*[People](people.md): Students, Parents, Teacher, Advisors
+*[About](about.md): Analysis of Need, Current Efforts, Demographics
+*[Courses](courses.md): Descriptions and Schedule
+*[Logistics]:(logistics.md): Homework, Grades, Rules
+*[Outcomes]:(outcomes.md): Habits of Mind, Projections, Proficiencies
+*[Timeline](timeline.md): Blog of progress with visuals!
 
 ## The following is a DRAFT PROPOSAL of the MAKERTEENS program
 ### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
