@@ -1,4 +1,4 @@
-Career Readiness: Habits of Mind
+**Career Readiness: Habits of Mind**
 
 Researchers and policy makers have tried to elucidate the “habits of mind” needed for success in college and career. Components include demonstration of: being a team player, inquisitive intellectual openness, self advocacy, and the organized ability of productive time management. The work of Arthur Costa (2008) suggests a comprehensive focus on 16 habits of mind:
 
@@ -24,7 +24,7 @@ http://www.habitsofmindinstitute.org/wp-content/uploads/2014/05/HOM.Chart_.Horiz
 
 A toxic mental environment forms dysfunctional cognitive habits. Far more important than building a Tiny House, we are remodeling a brain. Through intense and constant diligence, we are forming new responses to old triggers. When challenges beg us to quit, or feign apathy, we support each other with perseverance, courage, and curiosity to conquer every challenge. The brain so disciplined gains strength to better meet the next challenge. 
 
-Outcomes Tracked and Reported:
+**Outcomes Tracked and Reported:**
 
 * Average daily attendance rate and percentage of students chronically absent 
 * Participation rates in CTE and college-level courses 
