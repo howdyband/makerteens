@@ -1,6 +1,5 @@
-# High School Graduation and <br>
+# High School Graduation and
 College & Career Readiness Act of 2016 
-<br>
 (Measure 98)
 
 MAKERTEENS Menu:
@@ -12,7 +11,7 @@ MAKERTEENS Menu:
 <li>[Outcomes]:(outcomes.md): Habits of Mind, Projections, Proficiencies
 <li>[Timeline](timeline.md): Blog of progress with visuals!
 </ul>
-## The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
+### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
 
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well rounded curriculum and build a Tiny House in one school year.
 
