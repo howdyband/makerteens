@@ -1,5 +1,5 @@
 # High School Graduation and
-College & Career Readiness Act of 2016 
+# College & Career Readiness Act of 2016 
 (Measure 98)
 
 MAKERTEENS Menu:
