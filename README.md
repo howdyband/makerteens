@@ -1,16 +1,18 @@
-# High School Graduation and College & Career Readiness Act of 2016 
+# High School Graduation and <br>
+College & Career Readiness Act of 2016 
 <br>
 (Measure 98)
-MAKERTEENS Menu:
-*[People](people.md): Students, Parents, Teacher, Advisors
-*[About](about.md): Analysis of Need, Current Efforts, Demographics
-*[Courses](courses.md): Descriptions and Schedule
-*[Logistics]:(logistics.md): Homework, Grades, Rules
-*[Outcomes]:(outcomes.md): Habits of Mind, Projections, Proficiencies
-*[Timeline](timeline.md): Blog of progress with visuals!
 
-## The following is a DRAFT PROPOSAL of the MAKERTEENS program
-### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
+MAKERTEENS Menu:
+<ul>
+<li>[People](people.md): Students, Parents, Teacher, Advisors
+<li>[About](about.md): Analysis of Need, Current Efforts, Demographics
+<li>[Courses](courses.md): Descriptions and Schedule
+<li>[Logistics]:(logistics.md): Homework, Grades, Rules
+<li>[Outcomes]:(outcomes.md): Habits of Mind, Projections, Proficiencies
+<li>[Timeline](timeline.md): Blog of progress with visuals!
+</ul>
+## The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
 
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well rounded curriculum and build a Tiny House in one school year.
 
@@ -26,7 +28,7 @@ Measure 98 provides $800 ($400 as of May 2017) per high school student allocatio
 
 * * *
 
-**Courses**
+*Courses*
 
 Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement.
 
