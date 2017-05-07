@@ -2,15 +2,15 @@
 # College & Career Readiness Act of 2016 
 (Measure 98)
 
-MAKERTEENS Menu:
-<ul>
-<li>[People](people.md): Students, Parents, Teacher, Advisors
-<li>[About](about.md): Analysis of Need, Current Efforts, Demographics
-<li>[Courses](courses.md): Descriptions and Schedule
-<li>[Logistics]:(logistics.md): Homework, Grades, Rules
-<li>[Outcomes]:(outcomes.md): Habits of Mind, Projections, Proficiencies
-<li>[Timeline](timeline.md): Blog of progress with visuals!
-</ul>
+**menu**
+
+ - [People](people.md): Students, Parents, Teacher, Advisors
+ - [About](about.md): Analysis of Need, Current Efforts, Demographics
+ - [Courses](courses.md): Descriptions and Schedule
+ - [Logistics](logistics.md): Homework, Grades, Rules
+ - [Outcomes](outcomes.md): Habits of Mind, Projections, Proficiencies
+ - [Timeline](timeline.md): Blog of progress with visuals!
+
 ### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
 
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well rounded curriculum and build a Tiny House in one school year.
