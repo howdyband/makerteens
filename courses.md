@@ -59,8 +59,19 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 3 hours: Cleaning up or improving a public space<br>
 </p>
 <hr>
-<b>Schedule</b>
-(7 hours of class time per day) (8am-4pm with time off for breaks and lunch)<br>
+
+**Schedule**
+(7 hours of class time per day) (8am-4pm with time off for breaks and lunch)
+
+| Mon / Wed | Tues / Thur | Fri | Weekend
+|:------------ |:------------:|:------------| ------------|
+|AP Studio Art (2 hrs)|Integrated Science (2 hrs)|Family and Consumer Science (2 hrs)|Off site activites|
+|AP Psychology (1 hr)| Language Arts (2 hrs| Tiny House | | |
+|Web Design (1 hr)| Construction Math (1 hr) | |  |
+| Lunch (0.5 hr) | Lunch (0.5 hr) | Lunch (0.5 hr) | |
+|Tiny House (1 hr) |Health/PE (1 hr) |  | |
+|Tiny House (2 hrs) |Band (1 hr)| |  |
+
 M/W: <br>
 AP Studio Art (2 hrs), <br>
 AP Psychology (1 hr), <br>
@@ -68,11 +79,12 @@ Web Design (1 hr), <br>
 Tiny House (3 hrs)<br>
 
 Tu/Th: <br>
-Band (1 hr), <br>
+Integrated Science (2 hrs)
 Language Arts (2 hrs), <br>
 Construction Math (1 hr), <br>
 Health/PE (1 hr), <br>
-Integrated Science (2 hrs)<br>
+Band (1 hr)
+<br>
 
 <b>Friday: </b>
 Family and Consumer Science (2 hours)<br>
