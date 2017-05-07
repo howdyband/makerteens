@@ -10,3 +10,17 @@ Timely, authentic, formative feedback is provided with rubrics that vitalize own
 Rules:
 
 MAKERTEENS must abide by school's student code handbook in order to remain in the program. However, when permitted, peer- mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
+
+Dress Code:
+
+As an outward demonstration of an inward commitment to change, during second semester students will receive haircuts that tend toward the military style. Students will also begin wearing professional business attire two days per week.
+
+Merit Pay:
+
+Students can earn up to $20 per week by complying with the MAKERTEENS dress, language, and behavior requirements. Tuesday and Thursdays require formal business attire, zero cussing, and “going the extra mile”. Merit pay is awarded by student elected government. Funds are donated from the teacher’s salary and possibly other donations. At 12 students, the maximum weekly payout would be $240, or $960 per month, or $8,640 per year, $720 per individual. Paychecks are delivered every other Friday.
+
+For example, a student who arrives in formal attire on Tuesday is credited $5. This student is noticed and nominated to the student judges for “going the extra mile”. After closed deliberation, the judges pronounce additional payments totaling $4. Unfortunately, the student exercises little control over personal vocabulary and is charged $1 per curse word, ended the day with a balance of $3. The Teacher determines merit pay for judges based on input from the Executive.
+
+Student Government:
+
+Initiated in October, each month students elect 2 representatives to the legislature and 1 executive who appoints 3 judges, to be confirmed by the legislature. Judges decide merit pay, penalties, and determine restorative justice among peers. Judges serve 4 consecutive months. The Executive may be reelected up to 3 consecutive months. 
