@@ -1,17 +1,6 @@
-<div class="columns large-12">
-
-<center>
-
 # Measure 98
 
-</center>
-
-**
-
 ## The following is a DRAFT PROPOSAL of the MAKERTEENS program
-
-**
-
 ### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
 
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well rounded curriculum and build a Tiny House in one school year.
@@ -24,12 +13,11 @@ Provide a dozen at-risk high school students the opportunity to build a tiny hou
 **Funding**  
 Measure 98 provides $800 ($400 as of May 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities.
 
-source:  
-http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf
+[SOURCE](http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf)
 
 * * *
 
-<center>**Courses**</center>
+**Courses**
 
 Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement.
 
@@ -272,14 +260,6 @@ In addition to itemizing time and expenses as per state requirements, student pr
 *   (3) The deadline for biennial plan submission is July 1 of the first year of each biennium.
 *   (4) The Oregon Department of Education must review biennial plans submitted by each district to determine whether the plan should be approved. Plans will be approved if they meet the requirements of (2) of this rule.
 
-For clarification, contact CTE Specialist Reynold.Gardner@ode.state.or.us at 503-947-5615\.
-
-* * *
-
-* * *
-
-* * *
+For clarification, contact CTE Specialist Reynold.Gardner@ode.state.or.us at 503-947-5615.
 
 The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
-
-</div>
