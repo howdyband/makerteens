@@ -7,3 +7,6 @@ It is expected that MAKERTEENS will track daily household chores and music pract
 <strong>Grades</strong>:<br>
 Timely, authentic, formative feedback is provided with rubrics that vitalize ownership and productive learning. Proficiency based grading allows students to demonstrate competencies in a variety of ways. Portfolios of evidence, industry certificates, and well defined badges, are objective verifications of knowledge and work skills. 
 </p>
+Rules:
+
+MAKERTEENS must abide by school's student code handbook in order to remain in the program. However, when permitted, peer- mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
