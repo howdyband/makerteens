@@ -61,6 +61,33 @@ Accountability
 In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported. 
 
 
+Prohibits Discrimination
+The MAKERTEENS program is committed to providing a learning and work environment free from discrimination on the basis of race, creed/religion, color, national or ethnic origin, sex, sexual orientation, disability, marital status or age, in admission or access to participation in its programs and activities, pursuant to federal and state laws including, but not limited to, Title VI and VII of the Civil Rights Act, Title IX of the Education Amendment of 1972, Section 504 of the Rehabilitation Act of 1973, Title II of the Americans with Disabilities Act of 1990, and the Individuals with Disabilities Education Improvement Act.
+
+Teacher Accountability based on roll modeling Habits of Mind and Best Practices
+The state of North Carolina (Public Schools of North Carolina, 2001) did a longitudinal, in-depth evaluation of their alternative education programs spanning more than five years. Their findings are similar to those of other researchers. According to this report, successful alternative education schools have the following characteristics:
+* Strong sense of purpose and mission
+* Caring and committed staff
+* Dynamic leadership
+* Collegiality with faculty and students
+* Family-like atmosphere of respect
+* Low teacher/student ratio allowing more individual attention
+* Hands-on/experiential learning
+* Individualized and personalized learning
+* Emotional, physical, and academic needs of students addressed
+* Flexibility
+* Focus on academic standards
+* Creative strategies for course offerings
+* Significant parent involvement
+* Strong community connections. 
+
+Attendance Laws
+
+ORS 339.010 School attendance required; age limits. Except as provided in ORS 339.030, all children between the ages of 7 and 18 years who have not completed the 12th grade are required to attend regularly a public full time school of the school district in which the child resides. 
+ORS 339.020 Duty to send children to school. Except as provided in ORS 339.030, every person having control of any child between the ages of 7 and 18 years who have not completed the 12th grade is required to send such child to and maintain such child in regular attendance at a public full time school during the entire school term. Violations are punishable, upon conviction, by a fine of not more than $100 or by imprisonment in the county jail for not more than 30 days or both. Students who fail to maintain regular attendance in school may have either their driving privileges suspended or the right to apply for driving privileges suspended. Any parent who fails to maintain their child in regular attendance or who fails to send a student to school within three (3) days of notification by the district that their student is not complying with compulsory attendance requirements may be issued a citation by the district for the student's failure to attend school. Violation is a Class C violation of law and is punishable by a court imposed fine up to $150 as provided by ORS 339.925. For the purpose of computing irregular attendance, an unexcused absence for a period during a portion of the day will be considered a half days absence. Additionally, a parent or other person lawfully charged with the care or custody of a student under 15 years of age, may be found by the courts to have committed the offense of failing to supervise a child who has failed to attend school as required. Violations, as determined by the court, may be punishable by a requirement to complete a parent effectiveness program approved by the court and/or a fine of not more than $600. 
+http://www.fernridge.k12.or.us/elmirahs/wp-content/uploads/sites/2/2016/09/EHS-handbook.16-17.pdf
+
+
 Criteria for Plan Approval
 Biennial Plan
 (1) School districts and charter schools must prepare a biennial plan that addresses proposed spending of High School Graduation and College and Career Readiness Fund monies. School districts and charter schools may collaborate and submit one plan on behalf of multiple participants. ESDs may prepare a biennial plan on behalf of a consortium of school districts and charter schools. 
