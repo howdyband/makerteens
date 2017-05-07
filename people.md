@@ -1,4 +1,5 @@
 **Student Qualifications**  
+
 Any student entering grade 9 - 12 may apply with the understanding that selection is prioritize to "serve those students identified by the school district as most at-risk of not graduating or being college or career ready, historically and traditionally marginalized and historically underrepresented". Current dropouts, age 20 or younger, may also apply. Ten to fourteen successful applicants will have recommendations from two school staff members. Students may not repeat this opportunity in a subsequent year.
 
 Often students at risk of dropping out have experienced Adverse Childhood Experiences (ACEs), toxic stress, and other dysfunctional contexts that have negatively impacted brain development. Fortunately, with intensive care and retraining, the plasticity of the adolescent brain can grow health promoting neural pathways while allowing bad habits of mind to be pruned away. Students willing to contractually commit to the demands of the MAKERTEENS program are ideal candidates. A student needs a willingness to stick with selected classes and activities throughout the school year. Contracts are signed so parents and students fully understand their rigorous commitments.
@@ -48,6 +49,7 @@ Applicable Experience:
 The teacher is available to MAKERTEENS 24/7 via phone call.
 
 **Technical Advisors**:
+
 *   Chris Higginbotham, Oregon CTE Teacher of the "Viking House" construction class at Forest Grove High School. www.fghsvikinghouse.com
 *   Patrick Hawke, Oregon CTE Teacher, currently living in Boise, Idaho.
 *   heartoforegon.org/programs/youthbuild.html
