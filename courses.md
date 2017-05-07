@@ -58,26 +58,26 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 3 hours: Cleaning up or improving a public space<br>
 </p>
 <hr>
-Schedule 
-(7 hours of class time per day) (8am-4pm with time off for breaks and lunch)
-M/W: 
-AP Studio Art (2 hrs), 
-AP Psychology (1 hr), 
-Web Design (1 hr), 
-Tiny House (3 hrs)
+<b>Schedule</b>
+(7 hours of class time per day) (8am-4pm with time off for breaks and lunch)<br>
+M/W: <br>
+AP Studio Art (2 hrs), <br>
+AP Psychology (1 hr), <br>
+Web Design (1 hr), <br>
+Tiny House (3 hrs)<br>
 
-Tu/Th: 
-Band (1 hr), 
-Language Arts (2 hrs), 
-Construction Math (1 hr), 
-Health/PE (1 hr), 
-Integrated Science (2 hrs)
+Tu/Th: <br>
+Band (1 hr), <br>
+Language Arts (2 hrs), <br>
+Construction Math (1 hr), <br>
+Health/PE (1 hr), <br>
+Integrated Science (2 hrs)<br>
 
-Friday: 
-Family and Consumer Science (2 hours)
+<b>Friday: </b>
+Family and Consumer Science (2 hours)<br>
 Tiny House (4 hours, more or less to keep on schedule), Catch-up on projects, credit recovery, career planning, family and consumer science, job shadow and reports, field trips to other work sites, etc.
 
-Saturday:
+<b>Saturday:</b>
 In an effort to create and maintain a supportive family type collegial environment, MAKERTEENS activity pursue healthy weekend activities as a team of consumers and producers. Events may include hikes, sports, concerts, and visits to industries, art galleries, museums or other avenues of inspiration.
 
 Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation of the process.
