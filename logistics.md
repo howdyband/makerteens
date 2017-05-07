@@ -14,6 +14,8 @@ Timely, authentic, formative feedback is provided with rubrics that vitalize own
 
 MAKERTEENS must abide by school's student code handbook in order to remain in the program. However, when permitted, peer- mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
 
+Persist in Productivity, Integrity, and Care. Team work. Restorative Justice. Professional Vocabulary. Athletic discipline: When the coach of a sports team tells his players to run a lap, the players respond with dedication to the task because they trust the coach is preparing them for success. Likewise, when the foreman assigns his laborers a task, they trust the foreman knows the blueprint so the workers get paid for quality work. In order to catch up and excel beyond peers, there is no down time on the job site. We strive for continual improvement. We persist with a drill, or a guitar, or a potter's wheel. We read books to challenge our comprehension, we write for clear expression of thought, always pushing and being pushed toward betterment of the brain. We earn the right to self-manage, setting priorities to meet individualized goals while still putting the needs of the team above our own. We care. 
+
 <strong>Dress Code:</strong>
 
 As an outward demonstration of an inward commitment to change, during second semester students will receive haircuts that tend toward the military style. Students will also begin wearing professional business attire two days per week.
