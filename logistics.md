@@ -1,10 +1,13 @@
-**Rules**:  
+**Rules**: 
+
 Students must abide by school's student code handbook in order to remain in the program. However, when permitted, peer- mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
 
-**Homework**:  
+**Homework**: 
+
 It is expected that MAKERTEENS will track daily household chores and music practice. In a type of "flipped class" students are expected to read assignments at home in preparation for class discussions and activities. Most importantly, each student is expected to demonstrate ownership of their individualized, constructivist education, by contributing to our online collaborative forum, reflecting on learning, posing deep questions, suggesting research resources, as we encourage each other in our quest toward healthy minds and habits.
 
 **Grades**:  
+
 Timely, authentic, formative feedback is provided with rubrics that vitalize ownership and productive learning. Proficiency based grading allows students to demonstrate competencies in a variety of ways. Portfolios of evidence, industry certificates, and well defined badges, are objective verifications of knowledge and work skills.
 
 Persist in Productivity, Integrity, and Care. Team work. Restorative Justice. Professional Vocabulary. Athletic discipline: When the coach of a sports team tells his players to run a lap, the players respond with dedication to the task because they trust the coach is preparing them for success. Likewise, when the foreman assigns his laborers a task, they trust the foreman knows the blueprint so the workers get paid for quality work. In order to catch up and excel beyond peers, there is no down time on the job site. We strive for continual improvement. We persist with a drill, or a guitar, or a potter's wheel. We read books to challenge our comprehension, we write for clear expression of thought, always pushing and being pushed toward betterment of the brain. We earn the right to self-manage, setting priorities to meet individualized goals while still putting the needs of the team above our own. We care. 
