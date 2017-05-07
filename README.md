@@ -1,5 +1,7 @@
 # Measure 98
 
+[people](people.md)
+
 ## The following is a DRAFT PROPOSAL of the MAKERTEENS program
 ### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
 
