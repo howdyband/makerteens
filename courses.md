@@ -35,7 +35,8 @@ Students are encouraged to take all of the following courses in this year of col
 </p>
 <p>With help from SketchUp, we design Tiny House models with precision that requires a working knowledge of geometry. Calculating electrical and plumbing flows, loads, and capacities requires algebraic understanding, particularly with an off grid house that relies on solar energy. Transferring a scale model of complex roof angles to making the actual cuts requires confidence in the accuracy of mathematic calculations.</p>
 <p>
-<b>Language Arts</b><br> - CCSS for skill development within the context of other classes. E.g., reading technical construction journals, writing lyrics for band using poetic techniques, enhanced with production of dramatic theater. Also integration of Spanish, and ASL.
+<b>Language Arts</b><br> - CCSS for skill development within the context of other classes. E.g., reading technical construction journals, writing lyrics for band using poetic techniques, enhanced with production of dramatic theater. Language integrates of Spanish and ASL. Students read "Spare Parts" by Joshua Davis plus another novel of choice from list at
+http://www.oregonbattleofthebooks.org/2017-2018-obob-book-titles/
 </p>
 <p>Thinking is clarified with concise writing and speaking. Each word in each phrase is carefully selected for purposeful communication. Writing is required in every area, e.g., analysis of art, creating content for the website, blog, and social media. Written instructions allow others to replicate and improve on our success. Written communication is also required in unique universal languages such as mathematical reasoning, song composition, scientific formulas and graphics.
 </p>
