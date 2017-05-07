@@ -23,3 +23,57 @@ The alternative education teacher is not a lone ranger but is seen as a team mem
 Potential Barriers
 
 A self-contained alternative education program within a traditional school has the intrinsic danger of stigma. Additionally, the risk factors from inappropriate peer associations may be compounded. Disengagement with “normal” school activities can accelerate the tendency to drop out of school. A concentration of impulsive youth with negative attitudes can feed on each other in an escalation of poor behaviors and general rebelliousness. For the uninitiated, being regularly exposed to delinquency may be a gateway to illicit substance abuse, pornography, foul language, and a host of other behaviors in a type of prison yard training ground. Teacher awareness of such potential to downward spiral, empowers the teacher to nip problems in the bud, redirect negative energy, maintain firm expectations  and supports for success, and immediately trouble shoot the function of counter-productive behaviors by collaborating with parents, colleagues, and students as appropriate.
+
+Program Expenses: 
+Total cost for this two-year program is $248k
+(Annual cost of $124k divided by $800 per student would require 155 students in grades 9-12. If the ADMw is lower, or other CTE programs need funding, then the 2018 Summer Program could be cut back accordingly.)
+
+2017-2018 : $135k
+$78k for teacher salary* +6% ($4680) contribution toward PERS
+$52k for materials and supplies
+$0 for tools (teacher has all required tools and instruments for students to use in construction, band instruments to loan, and ceramic studio equipment (kiln, wheel, pug mill, extruder). Teacher has a 29 foot enclosed mobile shop but would need a classroom and secure covered space for the build.
+
+Summer 2018 : $30k
+Six students who have demonstrated valued work ethic, academic achievement, and marketable skills during the school year are invited to work on a building project earning $15 hour. Cost for staff is at $45 per hour. A labor total of $30k equates to 222 hours toward a community improvement project, e.g., building a gazebo to donate to the Farmer's Market. (If funded, this summer program would be run through a non-profit for tax purposes.)
+
+2018 - 2019 : $83k
+Cost of Human Resources remain the same as 2017-18
+Cost of materials is $0 based on sale of the 2017 - 18 tiny house.
+
+*Salary is based on the Gresham-Barlow School District salary table for education and years of experience. Teacher delivers 10 unique classes per week with no prep period. Teacher donates up to $8000 in merit pay for students.
+
+A high school drop out not only removes their state funding from a district, but also represents a half-million dollar tax loss to a community and state over a lifetime, and likely increases taxpayer expenses to pay for the dropout’s health, welfare, and incarceration. (Economist Russell Rumberger, a professor at the University of California, Santa Barbara and director of the California Dropout Research Project)
+
+Accountability
+
+In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported. 
+
+
+Criteria for Plan Approval
+Biennial Plan
+(1) School districts and charter schools must prepare a biennial plan that addresses proposed spending of High School Graduation and College and Career Readiness Fund monies. School districts and charter schools may collaborate and submit one plan on behalf of multiple participants. ESDs may prepare a biennial plan on behalf of a consortium of school districts and charter schools. 
+(2) The biennial plan must 
+(a) Comply with the requirements of section 1, chapter 1, Oregon Laws 2017and rules adopted to implement section 1, chapter 1, Oregon Laws 2017; 
+(b) Cover a minimum of two years but may be longer; 
+(c) Address current data and analysis of contributing causes; 
+(d) Prioritize spending on programs that serve those students identified by the school district as most at-risk of not graduating or being college or career ready, historically and traditionally marginalized and historically underrepresented; 
+(e) Include plans to establish or expand upon current efforts by the school district or charter school with evidence-based practices in three areas: 
+(A) CTE programs in high schools; 
+(B) Access to college-level educational opportunities for students in high schools; and 
+(C) Drop-out prevention strategies in all high schools; 
+(f) Demonstrate coordination between the three areas of spending; 
+(g) Identify resources and specific strategies for historically and traditionally marginalized students and historically underrepresented students and demonstrate what will be accomplished; 
+(h) Identify supports for teachers, counselors, and administrators to implement specific strategies; and 
+(i) Identify projections for disaggregated targets related to graduation, student participation in CTE and dual credit, advanced placement, International Baccalaureate, or comparable college-level courses, improvements in attendance, and student progress towards career pathways. 
+(3) The deadline for biennial plan submission is July 1 of the first year of each biennium.   
+(4) The Oregon Department of Education must review biennial plans submitted by each district to determine whether the plan should be approved. Plans will be approved if they meet the requirements of (2) of this rule. 
+
+For clarification, contact CTE Specialist Reynold.Gardner@ode.state.or.us at 503-947-5615. 
+Contact Lane ESD CTE program
+
+RESOURCES
+http://www.tinyhousecommunity.com/build.htm
+HeartofOregon
+
+The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
+
