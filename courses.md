@@ -82,3 +82,7 @@ Tiny House (4 hours, more or less to keep on schedule), Catch-up on projects, cr
 In an effort to create and maintain a supportive family type collegial environment, MAKERTEENS activity pursue healthy weekend activities as a team of consumers and producers. Events may include hikes, sports, concerts, and visits to industries, art galleries, museums or other avenues of inspiration.
 
 Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation of the process.
+
+Optional Activities:
+Combustion to Electric Car Conversion
+
