@@ -71,12 +71,12 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 |11:00 - 12:00| Web Design <br>(1 hr)| Construction Math <br>(1 hr) | Tiny House  |  |
 |12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch <br>(0.5 hr) | |
 |12:30 - 2:30| Tiny House <br>(2 hrs)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
-|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>1.5 hrs)|  "           " | | including supporting <br>school sports and music |
+|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>1.5 hrs)|  "           " | including supporting <br>school sports and music | 
 
-*Friday*:
+*Friday*:<br>
 After a couple hours of *Family and Consumer Science* we volunteer to mentor elementary age children, to be mentored by the elderly, and perhaps take a field trip to a job shadow work site. We work on the Tiny House if behind schedule, but may also catch up with other projects as may be needed for credit recovery.
 
-*Saturday*:
+*Saturday*:<br>
 In an effort to create and maintain a supportive family type collegial environment, MAKERTEENS activity pursue healthy weekend activities as a team of consumers and producers. Events may include hikes, sports, concerts, and visits to industries, art galleries, museums or other avenues of inspiration.
 
 Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation of the process.
