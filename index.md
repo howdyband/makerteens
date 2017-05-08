@@ -39,12 +39,7 @@ The alternative education teacher is not a lone ranger but is seen as a team mem
 
 * * *
 
-**Potential Barriers**:  
-A self-contained alternative education program within a traditional school has the intrinsic danger of stigma. Additionally, the risk factors from inappropriate peer associations may be compounded. Disengagement with “normal” school activities can accelerate the tendency to drop out of school. A concentration of impulsive youth with negative attitudes can feed on each other in an escalation of poor behaviors and general rebelliousness. For the uninitiated, being regularly exposed to delinquency may be a gateway to illicit substance abuse, pornography, foul language, and a host of other behaviors in a type of prison yard training ground.  
-However, teacher awareness of such potential to downward spiral, empowers the teacher to nip problems in the bud, redirect negative energy, maintain firm expectations and supports for success, and immediately trouble shoot the function of counter-productive behaviors by collaborating with parents, colleagues, and students as appropriate.
-
-
-MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as employees, and practice for college admission interviews in order to effectively thrive in any potential contingency. Above-all, MAKERTEENS are trained to grade themselves along their quest to package their lives as a gift to their current and future friends, family, and community. In the process of life, grades on extrinsic behaviors cannot accurately approximate the true value of intrinsic habits of mind.
+MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as employees, and practice for college admission interviews in order to effectively thrive in any potential contingency.  
 
 * * *   
 
