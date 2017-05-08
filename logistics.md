@@ -1,3 +1,5 @@
+# MAKERTEENS Agreements # 
+
 **Rules**: 
 
 Students must abide by school's student code handbook in order to remain in the program. However, when permitted, peer- mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
