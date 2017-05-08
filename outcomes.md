@@ -1,3 +1,5 @@
+# MAKERTEENS Outcomes #
+
 **Career Readiness: Habits of Mind**
 
 Researchers and policy makers have tried to elucidate the “habits of mind” needed for success in college and career. Components include demonstration of: being a team player, inquisitive intellectual openness, self advocacy, and the organized ability of productive time management. The work of Arthur Costa (2008) suggests a comprehensive focus on 16 habits of mind:
