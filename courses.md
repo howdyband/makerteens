@@ -14,7 +14,7 @@ Over the course of 36 weeks, approximately 360 hours are set aside for building 
 
 Ceramics (with wheel and kiln), sculpture, drawing, painting, silk screen, weaving, photography, making decorative items for the Tiny House...
 
-This is the obvious "A" that transforms STEM into STEAM. Art is the creative expression that adds meaning to other disciplines. </p>
+This is the obvious "A" that transforms STEM into STEAM. Art is the creative expression that adds meaning to other disciplines. "_The greatest scientists are always artists as well_” ~ Albert Einstein
 
 **AP Psychology**
 
