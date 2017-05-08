@@ -1,3 +1,5 @@
+# MAKERTEENS Timeline #
+
 This timeline shows the ongoing progress of MAKERTEENS including initial idea, supports, red tape, development, and projects.
 
 After inspiration and encouragement from leaders (see "_people_") in CTE and alternative education programs, the ideas took on a viable framework as expressed on the MAKERTEENS website.
