@@ -55,3 +55,5 @@ The teacher is available to MAKERTEENS 24/7 via phone call.
 *   Chris Higginbotham, Oregon CTE Teacher of the "Viking House" construction class at Forest Grove High School. www.fghsvikinghouse.com
 *   Patrick Hawke, Oregon CTE Teacher, currently living in Boise, Idaho.
 *   heartoforegon.org/programs/youthbuild.html
+
+"_True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well_." - Bill Owens
