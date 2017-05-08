@@ -20,6 +20,12 @@ Six students who have demonstrated valued work ethic, academic achievement, and 
 Cost of Human Resources remain the same as 2017-18
 Cost of materials is $0 based on sale of the 2017 - 18 tiny house.
 
-*Salary is based on the Gresham-Barlow School District salary table for education and years of experience. Teacher delivers 10 unique classes per week with no prep period. Teacher donates up to $8000 in merit pay for students.
+*Salary is based on the Gresham-Barlow School District salary table for education and years of experience. Teacher delivers 10 unique classes per week with no prep period. Teacher donates up to $8,648 in merit pay for students.
+
+**Merit Pay**:
+
+Students can earn up to $20 per week by complying with the MAKERTEENS dress, language, and behavior requirements. Funds are donated from the teacher’s salary and possibly other donations. At 12 students, the maximum weekly payout would be $240, or $960 per month, or $8,640 per year, $720 per individual. Paychecks are delivered every other Friday.
+
+**Cost of Dropping Out**
 
 A high school drop out not only removes their state funding from a district, but also represents a half-million dollar tax loss to a community and state over a lifetime, and likely increases taxpayer expenses to pay for the dropout’s health, welfare, and incarceration. (Economist Russell Rumberger, a professor at the University of California, Santa Barbara and director of the California Dropout Research Project)
