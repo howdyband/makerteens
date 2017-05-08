@@ -69,9 +69,9 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 |8:00 - 10:00| AP Studio Art <br>(2 hrs)| Integrated Science <br>(2 hrs)|Family and Consumer Science <br>(2 hrs)|Off-site activites|
 |10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) |Cross-age Volunteer ||
 |11:00 - 12:00| Web Design <br>(1 hr)| Construction Math <br>(1 hr) | Tiny House  |  |
-|12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch (0.5 hr) | |
-|12:30 - 2:30| Tiny House <br>(2 hr)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
-|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>1.5 hr)| | | |
+|12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch <br>(0.5 hr) | |
+|12:30 - 2:30| Tiny House <br>(2 hrs)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
+|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>1.5 hrs)|  "           " | | including supporting <br>school sports and music |
 
 *Friday*:
 After a couple hours of *Family and Consumer Science* we volunteer to mentor elementary age children, to be mentored by the elderly, and perhaps take a field trip to a job shadow work site. We work on the Tiny House if behind schedule, but may also catch up with other projects as may be needed for credit recovery.
