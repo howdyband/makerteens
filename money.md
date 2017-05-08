@@ -1,9 +1,10 @@
 # Cost-Benefit Analysis of MakerTeens #
 
 **Funding**
+
 Measure 98 provides $800 ($400 as of May 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities (~[source]~(http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf))
 
-**Program Expenses:** (Negotiable Estimates)
+**Program Expenses** (Negotiable Estimates)
 
 Total cost for this two-year program is $248k
 (Annual cost of $124k divided by $800 per student would require 155 students in grades 9-12. If the ADMw is lower, or other CTE programs need funding, then the 2018 Summer Program could be cut back accordingly.)
