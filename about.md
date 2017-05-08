@@ -26,18 +26,16 @@ A self-contained alternative education program within a traditional school has t
 
 **Philosophy of Education**
 
-According to social constructivist theory, the group defines the paradigms of reality and sets expectations. A purely discovery based constructivist approach is inefficient use of time and makes ineffectual progress. The romantic notion that students can guide themselves is rejected. However, with training, students move toward self directed group discussion within a context of mutual respect and encouragement of academic teammates. Likewise, individuals are given strategies for self monitored productive learning. 
+According to social constructivist theory, the group defines the paradigms of reality and sets expectations. A purely discovery based constructivist approach is inefficient use of time and makes ineffectual progress. The romantic notion that students can solely guide themselves is rejected. However, with training, students move toward self-directed group discussion within a context of mutual respect and encouragement from academic teammates. Likewise, individuals are given strategies for self-monitored productive learning. 
 
 **Myths** to change behavior:
-1. Education creates behavior change (No, Information is not enough.) Information needs to tangible, personalized, interactive.
-2. You need to change attitudes in order to change behaviors. (No, behaviors change attitudes, not the other way around.)
-3. People know what motivates them to take action (No, social scientist know social norms are most powerful influence. 
+1. Education creates behavior change (No, Information is not enough.) Information needs to be tangible, personalized, and interactive.
+2. You need to change attitudes in order to change behaviors. (No, behaviors change attitudes, not typically the other way around.)
+3. People know what motivates them to take action (No, social scientist know social norms are the most powerful influence. 
 
-On the contrary, well structured learning environments offer appropriate scaffolds toward predefined outcomes.
+It is not a myth that well structured learning environments offer appropriate scaffolds toward predefined outcomes.
 
-“The greatest scientists are always artists as well” - Albert Einstein
-
-**Program Expenses:**
+**Program Expenses:** (Negotiable Estimates) 
 
 Total cost for this two-year program is $248k
 (Annual cost of $124k divided by $800 per student would require 155 students in grades 9-12. If the ADMw is lower, or other CTE programs need funding, then the 2018 Summer Program could be cut back accordingly.)
