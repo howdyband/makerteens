@@ -1,8 +1,8 @@
-<p align="center">
+
 # MAKERTEENS promotes #
 # High School Graduation #
 # College and Career Readiness #
-</p>
+
 
 ![](IMG_0490.PNG)
 
