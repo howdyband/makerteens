@@ -67,21 +67,19 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 |Time| Mon / Wed | Tues / Thur | Fri | Weekend |
 |:------------|:------------ |:------------:|:------------| ------------|
 |8:00 - 10:00| AP Studio Art <br>(2 hrs)| Integrated Science <br>(2 hrs)|Family and Consumer Science <br>(2 hrs)|Off-site activites|
-|10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) | Tiny House |Cross-age Volunteer|
-|11:00 - 12:00| Web Design <br>(1 hr)| Construction Math <br>(1 hr) | |  |
+|10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) |Cross-age Volunteer ||
+|11:00 - 12:00| Web Design <br>(1 hr)| Construction Math <br>(1 hr) | Tiny House  |  |
 |12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch (0.5 hr) | |
 |12:30 - 2:30| Tiny House <br>(2 hr)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
 |2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>1.5 hr)| | | |
 
-<b>Friday: </b>
-Family and Consumer Science (2 hours)<br>
-Tiny House (4 hours, more or less to keep on schedule), Catch-up on projects, credit recovery, career planning, family and consumer science, job shadow and reports, field trips to other work sites, etc.
+*Friday*:
+After a couple hours of *Family and Consumer Science* we volunteer to mentor elementary age children, to be mentored by the elderly, and perhaps take a field trip to a job shadow work site. We work on the Tiny House if behind schedule, but may also catch up with other projects as may be needed for credit recovery.
 
-<b>Saturday:</b>
+*Saturday*:
 In an effort to create and maintain a supportive family type collegial environment, MAKERTEENS activity pursue healthy weekend activities as a team of consumers and producers. Events may include hikes, sports, concerts, and visits to industries, art galleries, museums or other avenues of inspiration.
 
 Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation of the process.
 
 Optional Activities:
 Combustion to Electric Car Conversion
-
