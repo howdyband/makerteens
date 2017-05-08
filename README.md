@@ -53,38 +53,6 @@ Over the course of 36 weeks, approximately 360 hours are set aside for building 
 
 * * *
 
-* * *
-
-**Program Expenses**:  
-
-Total cost for this two-year program is $248k  
-(Annual cost of $124k divided by $800 per student would require 155 students in grades 9-12\. If the ADMw is lower, or other CTE programs need funding, then the 2018 Summer Program could be cut back accordingly.)
-
-2017-2018 : $135k  
-$78k for teacher salary*, +6% ($4680) contribution toward PERS, and district's group insurance.  
-$52k for materials and supplies  
-$0 for tools (teacher has all required tools and instruments for students to use in construction, band instruments to loan, and ceramic studio equipment (kiln, wheel, pug mill, extruder). Teacher has a 29 foot enclosed mobile shop but would need a classroom and secure covered space for the build.
-
-Summer 2018 : $30k  
-Six students who have demonstrated valued work ethic, academic achievement, and marketable skills during the school year are invited to work on a building project earning $15 hour. Cost for staff is at $45 per hour. A labor total of $30k equates to 222 hours toward a community improvement project, e.g., building a gazebo to donate to the Farmer's Market. (If funded, this summer program would be run through a non-profit for tax purposes.)
-
-2018 - 2019 : $83k  
-Cost of Human Resources remain the same as 2017-18  
-Cost of materials is $0 based on sale of the 2017 - 18 tiny house.  
-
-*Salary is based on the Gresham-Barlow School District salary table for education and years of experience. Teacher delivers 10 unique classes per week with no prep period.
-
-note:  
-A high school drop out not only removes their state funding from a district, but also represents a half-million dollar tax loss to a community and state over a lifetime, and likely increases taxpayer expenses to pay for the dropout’s health, welfare, and incarceration. (Economist Russell Rumberger, a professor at the University of California, Santa Barbara and director of the California Dropout Research Project)
-
-Accountability  
-
-In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported.
-
-* * *
-
-* * *
-
 **Criteria for Approval of Biennial Plan**  
 
 *   (1) School districts and charter schools must prepare a biennial plan that addresses proposed spending of High School Graduation and College and Career Readiness Fund monies. School districts and charter schools may collaborate and submit one plan on behalf of multiple participants. ESDs may prepare a biennial plan on behalf of a consortium of school districts and charter schools.
