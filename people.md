@@ -1,3 +1,5 @@
+# MAKERTEENS People #
+
 **Student Qualifications**  
 
 Any student entering grade 9 - 12 may apply with the understanding that selection is prioritize to "serve those students identified by the school district as most at-risk of not graduating or being college or career ready, historically and traditionally marginalized and historically underrepresented". Current dropouts, age 20 or younger, may also apply. Ten to fourteen successful applicants will have recommendations from two school staff members. Students may not repeat this opportunity in a subsequent year.
