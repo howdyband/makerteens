@@ -1,8 +1,8 @@
-**Proposal**
+**Proposal** for a self-contained, alternatve school within a school program
 
-Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Construction Math.  This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies. 
+Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes by one highly qualified teacher: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Construction Math.  This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies. 
 
-**Rational** for self-contained “school within a school” program
+**Rational** why this program is needed
 
 Evidence suggests smaller learning communities can boost student achievement, improve attendance rates, decrease disciplinary referrals, and raise self-esteem. (Kemple, 2006)
 
@@ -10,7 +10,7 @@ In the typical 40 hour week workplace, a supervisor manages a group of workers, 
 
 Additionally, viable cross-curricular project-based learning is more feasible and coherent when delivered by the same teacher who strategically integrates learning opportunities within the dynamic flow of group and individual needs. This relevant education, within a positive environment aimed to meet individual needs, will diminish the frequency of students who feel alienated and disengaged from school. A smaller learning community strengthens relationships.
 
-This alternative school provides the IEP team with another possible least restrictive environment (LRE) in their continuum of placement options. 
+This alternative school provides the IEP team with another possible least restrictive environment (LRE) in their continuum of placement options. The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
 
 The alternative education teacher is not a lone ranger but is seen as a team member who collaborates by blending RTI (Response to Intervention) and individual PBIS student supports and interventions for students with significant behavioral needs in the wraparound planning process. 
 
@@ -29,14 +29,6 @@ According to social constructivist theory, the group defines the paradigms of re
 
 It is not a myth that well structured learning environments offer appropriate scaffolds toward predefined outcomes.
 
-**Accountability**
-
-In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported. 
-
-**Prohibits Discrimination**
-
-The MAKERTEENS program is committed to providing a learning and work environment free from discrimination on the basis of race, creed/religion, color, national or ethnic origin, sex, sexual orientation, disability, marital status or age, in admission or access to participation in its programs and activities, pursuant to federal and state laws including, but not limited to, Title VI and VII of the Civil Rights Act, Title IX of the Education Amendment of 1972, Section 504 of the Rehabilitation Act of 1973, Title II of the Americans with Disabilities Act of 1990, and the Individuals with Disabilities Education Improvement Act.
-
 **Accountability** based on roll modeling Habits of Mind and Best Practices
 
 The state of North Carolina (Public Schools of North Carolina, 2001) did a longitudinal, in-depth evaluation of their alternative education programs spanning more than five years. Their findings are similar to those of other researchers. According to this report, successful alternative education schools have the following characteristics:
@@ -54,6 +46,8 @@ The state of North Carolina (Public Schools of North Carolina, 2001) did a longi
 * Creative strategies for course offerings
 * Significant parent involvement
 * Strong community connections. 
+
+In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported. 
 
 **Attendance Laws**
 
@@ -86,9 +80,7 @@ Biennial Plan
 For clarification, contact CTE Specialist Reynold.Gardner@ode.state.or.us at 503-947-5615. 
 Contact Lane ESD CTE program
 
-**Resources**
-http://www.tinyhousecommunity.com/build.htm
-HeartofOregon
+**Prohibits Discrimination**
 
-The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
+The MAKERTEENS program is committed to providing a learning and work environment free from discrimination on the basis of race, creed/religion, color, national or ethnic origin, sex, sexual orientation, disability, marital status or age, in admission or access to participation in its programs and activities, pursuant to federal and state laws including, but not limited to, Title VI and VII of the Civil Rights Act, Title IX of the Education Amendment of 1972, Section 504 of the Rehabilitation Act of 1973, Title II of the Americans with Disabilities Act of 1990, and the Individuals with Disabilities Education Improvement Act.
 
