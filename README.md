@@ -47,30 +47,6 @@ However, teacher awareness of such potential to downward spiral, empowers the te
 
 MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as employees, and practice for college admission interviews in order to effectively thrive in any potential contingency. Above-all, MAKERTEENS are trained to grade themselves along their quest to package their lives as a gift to their current and future friends, family, and community. In the process of life, grades on extrinsic behaviors cannot accurately approximate the true value of intrinsic habits of mind.
 
-**Career Readiness: Habits of Mind**  
-Researchers and policy makers have tried to elucidate the “habits of mind” needed for success in college and career. Components include demonstration of: being a team player, inquisitive intellectual openness, self advocacy, and the organized ability of productive time management. The work of Arthur Costa (2008) suggests a comprehensive focus on 16 habits of mind:  
-
-*   Persisting
-*   Communicating with clarity and precision
-*   Managing impulsivity (self control)
-*   Gathering data through all senses
-*   Listening with understanding and empathy
-*   Creating, imagining, innovating
-*   Thinking flexibly
-*   Responding with wonderment and awe
-*   Metacognition
-*   Taking responsible risks
-*   Striving for greater accuracy and precision
-*   Finding humor
-*   Questioning and problem posing
-*   Thinking interdependently
-*   Applying past knowledge to new situations
-*   Remaining open to continuous learning
-
-Such habits of mind are directly taught in the psychology class, and encouraged throughout the day’s activities.
-
-http://www.habitsofmindinstitute.org/wp-content/uploads/2014/05/HOM.Chart_.Horizontal.pdf
-
 * * *   
 
 Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation.
