@@ -48,6 +48,4 @@ MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as empl
 
 * * *   
 
-Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation.
-
 The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
