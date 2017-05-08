@@ -1,9 +1,9 @@
 # Cost-Benefit Analysis of MakerTeens #
 
-**Funding**  
+**Funding**
 Measure 98 provides $800 ($400 as of May 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities (~[source]~(http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf))
 
-**Program Expenses:** (Negotiable Estimates) 
+**Program Expenses:** (Negotiable Estimates)
 
 Total cost for this two-year program is $248k
 (Annual cost of $124k divided by $800 per student would require 155 students in grades 9-12. If the ADMw is lower, or other CTE programs need funding, then the 2018 Summer Program could be cut back accordingly.)
@@ -22,7 +22,7 @@ Cost of materials is $0 based on sale of the 2017 - 18 tiny house.
 
 *Salary is based on the Gresham-Barlow School District salary table for education and years of experience. Teacher delivers 10 unique classes per week with no prep period. Teacher donates up to $8,648 in merit pay for students.
 
-**Merit Pay**:
+**Merit Pay**
 
 Students can earn up to $20 per week by complying with the MAKERTEENS dress, language, and behavior requirements. Funds are donated from the teacher’s salary and possibly other donations. At 12 students, the maximum weekly payout would be $240, or $960 per month, or $8,640 per year, $720 per individual. Paychecks are delivered every other Friday.
 
