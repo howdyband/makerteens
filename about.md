@@ -56,30 +56,6 @@ ORS 339.010 School attendance required; age limits. Except as provided in ORS 33
 ORS 339.020 Duty to send children to school. Except as provided in ORS 339.030, every person having control of any child between the ages of 7 and 18 years who have not completed the 12th grade is required to send such child to and maintain such child in regular attendance at a public full time school during the entire school term. Violations are punishable, upon conviction, by a fine of not more than $100 or by imprisonment in the county jail for not more than 30 days or both. Students who fail to maintain regular attendance in school may have either their driving privileges suspended or the right to apply for driving privileges suspended. Any parent who fails to maintain their child in regular attendance or who fails to send a student to school within three (3) days of notification by the district that their student is not complying with compulsory attendance requirements may be issued a citation by the district for the student's failure to attend school. Violation is a Class C violation of law and is punishable by a court imposed fine up to $150 as provided by ORS 339.925. For the purpose of computing irregular attendance, an unexcused absence for a period during a portion of the day will be considered a half days absence. Additionally, a parent or other person lawfully charged with the care or custody of a student under 15 years of age, may be found by the courts to have committed the offense of failing to supervise a child who has failed to attend school as required. Violations, as determined by the court, may be punishable by a requirement to complete a parent effectiveness program approved by the court and/or a fine of not more than $600. 
 http://www.fernridge.k12.or.us/elmirahs/wp-content/uploads/sites/2/2016/09/EHS-handbook.16-17.pdf
 
-**Criteria for Plan Approval**
-
-Biennial Plan
-
-(1) School districts and charter schools must prepare a biennial plan that addresses proposed spending of High School Graduation and College and Career Readiness Fund monies. School districts and charter schools may collaborate and submit one plan on behalf of multiple participants. ESDs may prepare a biennial plan on behalf of a consortium of school districts and charter schools. 
-(2) The biennial plan must 
-(a) Comply with the requirements of section 1, chapter 1, Oregon Laws 2017and rules adopted to implement section 1, chapter 1, Oregon Laws 2017; 
-(b) Cover a minimum of two years but may be longer; 
-(c) Address current data and analysis of contributing causes; 
-(d) Prioritize spending on programs that serve those students identified by the school district as most at-risk of not graduating or being college or career ready, historically and traditionally marginalized and historically underrepresented; 
-(e) Include plans to establish or expand upon current efforts by the school district or charter school with evidence-based practices in three areas: 
-(A) CTE programs in high schools; 
-(B) Access to college-level educational opportunities for students in high schools; and 
-(C) Drop-out prevention strategies in all high schools; 
-(f) Demonstrate coordination between the three areas of spending; 
-(g) Identify resources and specific strategies for historically and traditionally marginalized students and historically underrepresented students and demonstrate what will be accomplished; 
-(h) Identify supports for teachers, counselors, and administrators to implement specific strategies; and 
-(i) Identify projections for disaggregated targets related to graduation, student participation in CTE and dual credit, advanced placement, International Baccalaureate, or comparable college-level courses, improvements in attendance, and student progress towards career pathways. 
-(3) The deadline for biennial plan submission is July 1 of the first year of each biennium.   
-(4) The Oregon Department of Education must review biennial plans submitted by each district to determine whether the plan should be approved. Plans will be approved if they meet the requirements of (2) of this rule. 
-
-For clarification, contact CTE Specialist Reynold.Gardner@ode.state.or.us at 503-947-5615. 
-Contact Lane ESD CTE program
-
 **Prohibits Discrimination**
 
 The MAKERTEENS program is committed to providing a learning and work environment free from discrimination on the basis of race, creed/religion, color, national or ethnic origin, sex, sexual orientation, disability, marital status or age, in admission or access to participation in its programs and activities, pursuant to federal and state laws including, but not limited to, Title VI and VII of the Civil Rights Act, Title IX of the Education Amendment of 1972, Section 504 of the Rehabilitation Act of 1973, Title II of the Americans with Disabilities Act of 1990, and the Individuals with Disabilities Education Improvement Act.
