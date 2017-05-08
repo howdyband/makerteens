@@ -7,7 +7,8 @@
 Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement.
 </p>
 <p>
-<b>Tiny House</b><br> - The core career and technical activity is to build a tiny house over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The house is sold to cover costs and contribute to next year's project.
+<b>Tiny House</b><br> - The core career and technical activity is to build a tiny house over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The house is sold to cover costs and contribute to next year's project. Resource: http://www.tinyhousecommunity.com/build.htm
+
 </p>
 <p>Engineering and building the Tiny House is the vehicle used to display all the participants' growth in other areas. Art, Music, Math, Science, and more join together in this project based experience. The process presents opportunities to experience and direct psychological phenomenon that serve to improve each mind, each character of integrity and perseverance. </p>
 <p>
@@ -64,27 +65,13 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 (7 hours of class time per day) (8am-4pm with time off for breaks and lunch)
 
 |Time| Mon / Wed | Tues / Thur | Fri | Weekend |
-|:------------_|:------------ |:------------:|:------------| ------------|
-|8am - 10am |AP Studio Art (2 hrs)|Integrated Science (2 hrs)|Family and Consumer Science (2 hrs)|Off site activites|
-|10am - 11am |AP Psychology (1 hr)|Health/PE (1 hr) | Tiny House | |
-|11am - noon |Web Design (1 hr)| Construction Math (1 hr) | |  |
-|12 -12:30| Lunch (0.5 hr) | Lunch (0.5 hr) | Lunch (0.5 hr) | |
-|12:30-2:30pm| Tiny House (1 hr) |Health/PE (1 hr) |  | |
-|Tiny House (2 hrs) |Band (1 hr)| Language Arts (2 hrs | | |
-
-M/W: <br>
-AP Studio Art (2 hrs), <br>
-AP Psychology (1 hr), <br>
-Web Design (1 hr), <br>
-Tiny House (3 hrs)<br>
-
-Tu/Th: <br>
-Integrated Science (2 hrs)
-Language Arts (2 hrs), <br>
-Construction Math (1 hr), <br>
-Health/PE (1 hr), <br>
-Band (1 hr)
-<br>
+|:------------|:------------ |:------------:|:------------| ------------|
+|8:00 - 10:00| AP Studio Art <br>(2 hrs)| Integrated Science <br>(2 hrs)|Family and Consumer Science <br>(2 hrs)|Off-site activites|
+|10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) | Tiny House |Cross-age Volunteer|
+|11:00 - 12:00| Web Design <br>(1 hr)| Construction Math <br>(1 hr) | |  |
+|12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch (0.5 hr) | |
+|12:30 - 2:30| Tiny House <br>(2 hr)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
+|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>1.5 hr)| | | |
 
 <b>Friday: </b>
 Family and Consumer Science (2 hours)<br>
