@@ -23,13 +23,9 @@ More than a drop-out prevention program, the MAKERTEENS school within a school C
 Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Health/PE, Construction Math. This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies.
 
 **Funding**  
-Measure 98 provides $800 ($400 as of May 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities.
-
-[SOURCE](http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf)
+Measure 98 provides $800 ($400 as of May 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities (~[source]~(http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf))
 
 * * *
-
-
 
 **Rational for self-contained “school within a school” program**  
 Evidence suggests smaller learning communities can boost student achievement, improve attendance rates, decrease disciplinary referrals, and raise self-esteem. (Kemple, 2006)
@@ -75,30 +71,7 @@ Such habits of mind are directly taught in the psychology class, and encouraged 
 
 http://www.habitsofmindinstitute.org/wp-content/uploads/2014/05/HOM.Chart_.Horizontal.pdf
 
-* * *
-
-**Schedule**: 7 hours of class time per day  
-(e.g., 8am-4pm with time off for breaks and lunch)  
-M/W:  
-AP Studio Art (2 hrs)  
-AP Psychology (1 hr)  
-Web Design (1 hr)  
-Tiny House (3 hrs)  
-
-Tu/Th:  
-Band (1 hr)  
-Language Arts (2 hrs)  
-Construction Math (1 hr)  
-Health/PE (1 hr)  
-Integrated Science (2 hrs)
-
-Friday:  
-Family and Consumer science (2 hrs)  
-Tiny House (4 hours, more or less to keep on schedule)  
-Catch-up on projects, credit recovery, career planning, job shadow and reports, field trips to other work sites, etc.
-
-Saturday:  
-In an effort to create and maintain a supportive family type collegial environment, MAKERTEENS activitly pursue healthy weekend activities as a team of consumers and producers. Events may include hikes, sports, concerts, and visits to industries, art galleries, museums or other avenues of inspiration.
+* * *   
 
 Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation.
 
