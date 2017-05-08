@@ -1,3 +1,5 @@
+# Analysis of how MAKERTEENS meets Needs #
+
 **Proposal** for a self-contained, alternatve school within a school program
 
 Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes by one highly qualified teacher: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Construction Math.  This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies. 
