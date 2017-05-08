@@ -6,7 +6,9 @@ Students are encouraged to take all of the following courses in this year of col
 
 The core career and technical activity is to build a tiny house over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The house is sold to cover costs and contribute to next year's project. Resource: http://www.tinyhousecommunity.com/build.htm
 
-Engineering and building the Tiny House is the vehicle used to display all the participants' growth in other areas. Art, Music, Math, Science, and more join together in this project based experience. The process presents opportunities to experience and direct psychological phenomenon that serve to improve each mind, each character of integrity and perseverance. </p>
+Engineering and building the Tiny House is the vehicle used to display all the participants' growth in other areas. Art, Music, Math, Science, and more join together in this project based experience. The process presents opportunities to experience and direct psychological phenomenon that serve to improve each mind, each character of integrity and perseverance. 
+
+Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation.
 
 **AP Studio Art**
 
