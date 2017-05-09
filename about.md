@@ -9,10 +9,6 @@
 
 # Analysis of how MAKERTEENS meets Needs #
 
-**Proposal** for a self-contained, alternatve school within a school program
-
-Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes by one highly qualified teacher: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Construction Math.  This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies. 
-
 **Rational** why this program is needed
 
 Evidence suggests smaller learning communities can boost student achievement, improve attendance rates, decrease disciplinary referrals, and raise self-esteem. (Kemple, 2006)
@@ -24,6 +20,8 @@ Additionally, viable cross-curricular project-based learning is more feasible an
 This alternative school provides the IEP team with another possible least restrictive environment (LRE) in their continuum of placement options. The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
 
 The alternative education teacher is not a lone ranger but is seen as a team member who collaborates by blending RTI (Response to Intervention) and individual PBIS student supports and interventions for students with significant behavioral needs in the wraparound planning process. 
+
+MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as employees, and practice for college admission interviews in order to effectively thrive in any potential contingency. 
 
 **Potential Barriers**
 
@@ -58,7 +56,9 @@ The state of North Carolina (Public Schools of North Carolina, 2001) did a longi
 * Significant parent involvement
 * Strong community connections. 
 
-In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported. 
+In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported.  
+
+The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
 
 **Attendance Laws**
 
