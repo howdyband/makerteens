@@ -64,4 +64,4 @@ The teacher is available to MAKERTEENS 24/7 via phone call.
 *   Patrick Hawke, Oregon CTE Teacher, currently living in Boise, Idaho.
 *   heartoforegon.org/programs/youthbuild.html
 
-> True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well. ~ Bill Owens
+> True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well. **— Bill Owens**
