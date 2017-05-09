@@ -7,7 +7,7 @@
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.html): Blog of progress with visuals!
 
-# Analysis of how MAKERTEENS meets Needs #
+# MAKERTEENS meets Needs #
 
 **Rational** why this program is needed
 
@@ -58,14 +58,14 @@ The state of North Carolina (Public Schools of North Carolina, 2001) did a longi
 
 In addition to itemizing time and expenses as per state requirements, student progress toward program goals is regularly assessed. Data which identified an at-risk student, such as truancy, low grades, and office referrals, are collected and evaluated. Baseline data is provided by those who are aware of student history and likely trajectory without effective intervention. In collaboration with the school counselor, administrator, parent, and community services, individualized outcomes are identified, tracked, and reported.  
 
-The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
-
 **Attendance Laws**
 
 ORS 339.010 School attendance required; age limits. Except as provided in ORS 339.030, all children between the ages of 7 and 18 years who have not completed the 12th grade are required to attend regularly a public full time school of the school district in which the child resides. 
 
 ORS 339.020 Duty to send children to school. Except as provided in ORS 339.030, every person having control of any child between the ages of 7 and 18 years who have not completed the 12th grade is required to send such child to and maintain such child in regular attendance at a public full time school during the entire school term. Violations are punishable, upon conviction, by a fine of not more than $100 or by imprisonment in the county jail for not more than 30 days or both. Students who fail to maintain regular attendance in school may have either their driving privileges suspended or the right to apply for driving privileges suspended. Any parent who fails to maintain their child in regular attendance or who fails to send a student to school within three (3) days of notification by the district that their student is not complying with compulsory attendance requirements may be issued a citation by the district for the student's failure to attend school. Violation is a Class C violation of law and is punishable by a court imposed fine up to $150 as provided by ORS 339.925. For the purpose of computing irregular attendance, an unexcused absence for a period during a portion of the day will be considered a half days absence. Additionally, a parent or other person lawfully charged with the care or custody of a student under 15 years of age, may be found by the courts to have committed the offense of failing to supervise a child who has failed to attend school as required. Violations, as determined by the court, may be punishable by a requirement to complete a parent effectiveness program approved by the court and/or a fine of not more than $600. 
 http://www.fernridge.k12.or.us/elmirahs/wp-content/uploads/sites/2/2016/09/EHS-handbook.16-17.pdf
+
+The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
 
 **Prohibits Discrimination**
 
