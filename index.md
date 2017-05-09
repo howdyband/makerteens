@@ -3,9 +3,6 @@
 # High School Graduation #
 # College and Career Readiness #
 
-
-![](IMG_0490.PNG)
-
 **menu**
 
  - [People](people.md): Students, Parents, Teacher, Advisors
@@ -44,3 +41,6 @@ MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as empl
 * * *   
 
 The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
+
+![](IMG_0490.PNG)
+
