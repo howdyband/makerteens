@@ -4,15 +4,14 @@
 # College and Career Readiness #
 
 **menu**
-
- - [People](people.md): Students, Parents, Teacher, Advisors
  - [About](about.md): Analysis of Need, Current Efforts, Demographics
+ - [People](people.md): Students, Parents, Teacher, Advisors
  - [Courses](courses.md): Descriptions and Schedule
  - [Logistics](logistics.md): Homework, Grades, Rules
  - [Outcomes](outcomes.md): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.md): Blog of progress with visuals!
 
-### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  
+### The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness."  ###
 
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well rounded curriculum and build a Tiny House in one school year.
 
@@ -20,19 +19,6 @@ More than a drop-out prevention program, the MAKERTEENS school within a school C
 
 **Proposal**  
 Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Health/PE, Construction Math. This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies.
-
-* * *
-
-**Rational for self-contained “school within a school” program**  
-Evidence suggests smaller learning communities can boost student achievement, improve attendance rates, decrease disciplinary referrals, and raise self-esteem. (Kemple, 2006)
-
-In the typical 40 hour week workplace, a supervisor manages a group of workers, all day, all week. There is no “falling through the cracks” as one worker shuffles between 5 or more supervisors during a work day like in a large high school. A quietly sullen student could go undetected the full day, a passive-aggressive student could balance a shoulder chip for 50 minutes as the teacher avoided conflict. A class clown could deflect responsibility or feign incompetence for a short disruptive period, with all actors relieved knowing that the gig will soon be up. These practiced behaviors function to evade work. Students at-risk hide in fear of being rejected, covertly pleading to be known and respected an adult. A full day with the same teacher greatly diminishes student ability to smoke screen fears and weaknesses. Although initially painful and time consuming, the results are worth the effort. Under continuous, intensive, relentless care, pretenses fall away, authenticity surfaces, and the whole person can be rehabilitated, in the truest sense of forming beneficial habits.
-
-Additionally, viable cross-curricular project-based learning is more feasible and coherent when delivered by the same individual who strategically integrates learning opportunities within the dynamic flow of group and individual needs. This relevant education, within a positive environment aimed to meet individual needs, will diminish the frequency of students who feel alienated and disengaged from school. A smaller learning community strengthens relationships.
-
-This alternative school provides the IEP team with another possible least restrictive environment (LRE) in their continuum of placement options.
-
-The alternative education teacher is not a lone ranger but is seen as a team member who collaborates by blending RTI (Response to Intervention) and individual PBIS student supports and interventions for students with significant behavioral needs in the wraparound planning process.
 
 * * *
 
@@ -44,3 +30,4 @@ The U.S. Department of Education defines an alternative education school as ”a
 
 ![](IMG_0490.PNG)
 
+copyright 2017, MakerTeens.com
