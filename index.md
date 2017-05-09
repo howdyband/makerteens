@@ -1,6 +1,3 @@
-# MAKERTEENS
-### Promotes High School Graduation and College and Career Readiness
-
  - **[Home](index.html): Proposal**
  - [About](about.html): Analysis of Need, Current Efforts, Demographics
  - [People](people.html): Students, Parents, Teacher, Advisors
@@ -8,6 +5,10 @@
  - [Logistics](logistics.html): Homework, Grades, Rules
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.html): Blog of progress with visuals!
+ 
+ # MAKERTEENS
+ 
+## Promotes High School Graduation and College and Career Readiness
 
  > The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness." 
 
