@@ -30,9 +30,9 @@ Included in the curricular scope of psychology are studies  which enable the for
 
 Far more than an opportunity to be awarded college credit for coursework done in high school, psychology increases the understanding of our internal strengths and weaknesses. This awareness is core to empowering the customization of character, forming beneficial habits that displace harmful habits. Awareness of personality traits allow for revision, addition, and even deletion of traits as students build a reputation.
 
-**Web Design** 
+**Media** 
 
-HTML, CSS, PHP, videography for content, documentation of Tiny House program to raise support for material donations.
+MAKERTEENS create websites (HTML, CSS, PHP…) and produce content (videography, interviews, reports) to document Tiny House process, raise support for material donations, and display their digital portfolios. Videography includes using the teacher’s drones (windwhisker.com).
 
 **Band**
 
