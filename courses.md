@@ -1,3 +1,11 @@
+ - [Home](index.html): Proposal
+ - [About](about.html): Analysis of Need, Current Efforts, Demographics
+ - [People](people.html): Students, Parents, Teacher, Advisors
+ - **[Courses](courses.html): Descriptions and Schedule**
+ - [Logistics](logistics.html): Homework, Grades, Rules
+ - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
+ - [Timeline](timeline.html): Blog of progress with visuals!
+
 # MAKERTEENS Courses #
  
 Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement.
