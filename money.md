@@ -1,4 +1,4 @@
-# Cost-Benefit Analysis of MakerTeens #
+# MAKERTEENS Cost-Benefit Analysis #
 
 **Funding**
 
