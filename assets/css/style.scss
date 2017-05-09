@@ -3,4 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.button { display: none; }
+.button, aside { display: none; }
+
+@media only screen and (max-width: 767px) {
+  header a.button {
+    display:none;
+  }
+}
