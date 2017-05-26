@@ -62,6 +62,23 @@ The teacher is available to MAKERTEENS 24/7 via phone call.
 
 *   Chris Higginbotham, Oregon CTE Teacher of the "Viking House" construction class at Forest Grove High School. www.fghsvikinghouse.com
 *   Patrick Hawke, Oregon CTE Teacher, currently living in Boise, Idaho.
+*   Kristin Gunson, CTE Regional Coordinator for Lane ESD, kgunson@lesd.k12.or.us
 *   heartoforegon.org/programs/youthbuild.html
 
 > True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well. **— Bill Owens**
+
+**Trailblazers**:
+
+http://www.rivertownsenterprise.net/Rivertowns_Enterprise/4-21-17_Teens_build_tiny_house_based_on_big_idea.html
+
+http://www.laconiadailysun.com/newsx/local-news/100458-tiny-house-taking-shape
+
+http://tinyhouselistings.com/tag/north-carolina/
+
+http://www.lakesregionbuilders.com/news.htm
+
+http://tinyhouseola.com/we-are-famous/
+
+http://washington.cbslocal.com/2014/07/17/annapolis-school-to-show-off-hyper-efficient-tiny-house/
+
+http://stamps.umich.edu/creative-work/stories/tiny_house
