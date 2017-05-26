@@ -21,8 +21,7 @@ Provide a dozen at-risk high school students the opportunity to build a tiny hou
 your email:<br>
 <input type="email" name="_replyto"><br>
 your question or comment:<br>
-<textarea   name="body"></textarea><br>
-<input  width: 375px;
-   height: 25px; type="submit" value="Send" method="POST">
+<textarea width:375px height:25px name="body"></textarea><br>
+<input  type="submit" value="Send" method="POST">
 
 </form>
