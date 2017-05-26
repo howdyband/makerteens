@@ -4,7 +4,7 @@
  - [Courses](courses.html): Descriptions and Schedule
  - [Logistics](logistics.html): Homework, Grades, Rules
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
- - **[Timeline](timeline.html): Blog of progress with visuals!**
+ - **[Timeline](timeline.html): Blog of progress with visuals**
 
 # MAKERTEENS Timeline #
 
