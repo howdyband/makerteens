@@ -18,9 +18,10 @@ More than a drop-out prevention program, the MAKERTEENS school within a school C
 Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Health/PE, Construction Math. This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies.
 <hr>
 <form action="http://formspree.io/makerteens@gmail.com" method="POST">
-your email:<br>
+Your email:<br>
 <input type="email" name="_replyto"><br>
-your question or comment:<br>
+<br>
+Your question or comment:<br>
 <textarea rows="6" cols="70" name="body"></textarea><br>
 <input type="submit" value="Send" method="POST">
 
