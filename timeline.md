@@ -32,3 +32,5 @@ After inspiration and encouragement from leaders (see "_people_") in CTE and alt
 *   (4) The Oregon Department of Education must review biennial plans submitted by each district to determine whether the plan should be approved. Plans will be approved if they meet the requirements of (2) of this rule.
 
 For clarification, contact CTE Specialist Reynold.Gardner@ode.state.or.us at 503-947-5615.
+
+<img src="https://tinyhouselistings.com/wp-content/uploads/2016/12/Students-3.jpg" alt="other project" class="inline"/>
