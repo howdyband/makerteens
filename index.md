@@ -22,6 +22,7 @@ your email:<br>
 <input type="email" name="_replyto"><br>
 your question or comment:<br>
 <textarea   name="body"></textarea><br>
-<input type="submit" value="Send" method="POST">
+<input  width: 375px;
+   height: 25px; type="submit" value="Send" method="POST">
 
 </form>
