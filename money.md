@@ -12,7 +12,7 @@
 
 **Funding**
 
-Measure 98 provides $800 ($400 as of June 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities (~[source]~(http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf))
+Measure 98 provides $800 ($400 as of June 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities (http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf))
 
 **Program Expenses** (Negotiable Estimates)
 
@@ -24,7 +24,7 @@ Total cost for this two-year program is $248k
 $78k for employee salary +6% ($4680) contribution toward PERS
 $40k for materials and supplies
 $12k for insurance, miscellaneous, e.g., snacks, transportation...
-$0 for tools (teacher has all required tools and instruments for students to use in construction, band instruments to loan, and ceramic studio equipment (kiln, wheel, pug mill, extruder). Teacher has a 29 foot enclosed mobile shop but would need a classroom and secure covered space for the build.
+$0 for tools (teacher has all required tools (welders, saws, nailguns...) and instruments for students to use in construction, band instruments to loan, and ceramic studio equipment (kiln, wheel, pug mill, extruder). Teacher has a 29 foot enclosed mobile shop but would need a classroom and secure covered space for the build.
 
 *Summer 2018* : $30k
 
