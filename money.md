@@ -10,15 +10,18 @@ Total cost for this two-year program is $248k
 (Annual cost of $124k divided by $800 per student would require 155 students in grades 9-12. If the ADMw is lower, or other CTE programs need funding, then the 2018 Summer Program could be cut back accordingly.)
 
 *2017-2018* : $135k
+
 $78k for employee salary +6% ($4680) contribution toward PERS
 $40k for materials and supplies
 $12k for insurance, miscellaneous, e.g., snacks, transportation...
 $0 for tools (teacher has all required tools and instruments for students to use in construction, band instruments to loan, and ceramic studio equipment (kiln, wheel, pug mill, extruder). Teacher has a 29 foot enclosed mobile shop but would need a classroom and secure covered space for the build.
 
 *Summer 2018* : $30k
+
 Six students who have demonstrated valued work ethic, academic achievement, and marketable skills during the school year are invited to work on a building project earning $15 hour. Cost for staff is at $45 per hour. A labor total of $30k equates to 222 hours toward a community improvement project, e.g., building a gazebo to donate to the Farmer's Market. (If funded, this summer program would be run through a non-profit for tax purposes.)
 
 *2018 - 2019* : $83k
+
 Cost of Human Resources remain the same as 2017-18
 Cost of materials is $0 based on sale of the 2017 - 18 tiny house.
 
