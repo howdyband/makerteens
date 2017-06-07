@@ -68,7 +68,7 @@ Developing practical, useful skills are motivated by each person's desire to con
 
 **Health/PE**
 
-Productivity is enhanced by a work crew who maintains top physical fitness through exercise and nutrition. As we train our minds through psychological principles, we train our bodies through active implementation of physical education and health. Exercise makes for stronger brains and psychological wellness.
+Productivity is enhanced by a work crew who maintains top physical fitness through exercise and nutrition. As we train our minds through psychological principles, we train our bodies through active implementation of physical education and health. Exercise makes for stronger brains and psychological wellness. The eight health skills that students will develop are: Concepts, Accessing Information, Self Management, Analyzing Influences, Interpersonal Communication, Goal Setting, Decision Making, and Advocacy.
 
 **Community Involvement** (40 hours per semester)
 
