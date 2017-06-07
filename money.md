@@ -1,3 +1,13 @@
+ - [Home](index.html): Proposal
+ - [About](about.html): Analysis of Need, Current Efforts, Demographics
+ - [People](people.html): Students, Parents, Teacher, Advisors
+ - [Courses](courses.html): Descriptions and Schedule
+ - [Logistics](logistics.html): Homework, Grades, Rules
+ - **[Money](money.html): Cost and Funding of Program**
+ - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
+ - [Timeline](timeline.html): Blog of progress with visuals
+
+
 # MAKERTEENS Cost-Benefit Analysis #
 
 **Funding**
