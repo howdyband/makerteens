@@ -16,7 +16,21 @@
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well rounded curriculum and build a Tiny House in one school year.
 
 **Proposal**  
+
 Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes: Family and Consumer Science, AP Studio Art, AP Psychology, Web Design, Band, Integrated Science, Language Arts, Health/PE, Construction Math. This well-rounded, project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move a student toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies.
+
+**MAKERTEENS practice Oregon’s 21 Century Essential Skills:**
+
+• Read and comprehend a variety of text
+• Write clearly and accurately 
+• Apply mathematics in a variety of settings 
+• Listen actively and speak clearly and coherently
+• Think critically and analytically
+• Use technology to learn, live, and work
+• Demonstrate civic and community engagement
+• Demonstrate global literacy
+• Demonstrate personal management and teamwork
+
 <hr>
 <form action="http://formspree.io/makerteens@gmail.com" method="POST">
 Your email:<br>
