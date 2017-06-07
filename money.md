@@ -37,7 +37,7 @@ Cost of materials is $0 based on sale of the 2017 - 18 tiny house.
 
 **Employee Salary**
 
-$78k is based on the Gresham-Barlow School District salary table for education and years of experience. (Teacher delivers 10 unique classes per week with no prep period.) From salary, teacher donates up to $8,648 in merit pay for students. Teacher also donates up to $20,000 in stipend for skilled intern(s). E.g., 190 contact days x 8hrs day x $10.00 per hour = $15,200. Thus, the teacher salary (not counting PERS) may be as low as $49,352.
+$78k is based on the Gresham-Barlow School District salary table for education and years of experience. (Teacher, MA+24, delivers 10 unique classes per week with no prep period.) From salary, teacher donates up to $8,648 in merit pay for students. Teacher also donates up to $20,000 in stipend for skilled intern(s). E.g., 190 contact days x 8hrs day x $10.00 per hour = $15,200. Thus, the effective teacher salary (not counting PERS) may be as low as $49,352.
 
 **Merit Pay**
 
