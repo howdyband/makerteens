@@ -2,7 +2,7 @@
 
 **Funding**
 
-Measure 98 provides $800 ($400 as of May 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities (~[source]~(http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf))
+Measure 98 provides $800 ($400 as of June 2017) per high school student allocation based on the school district’s Average Daily Membership weighted (ADMw) formula, similar to the State School Fund. After July 1, 2017, districts are invited to submit their biennial plan for raising high school graduation rates through career and technical education programs with college-level educational opportunities (~[source]~(http://www.oregon.gov/ode/learning-options/CTE/statefund/Documents/m98_ip65_text.pdf))
 
 **Program Expenses** (Negotiable Estimates)
 
@@ -10,8 +10,9 @@ Total cost for this two-year program is $248k
 (Annual cost of $124k divided by $800 per student would require 155 students in grades 9-12. If the ADMw is lower, or other CTE programs need funding, then the 2018 Summer Program could be cut back accordingly.)
 
 *2017-2018* : $135k
-$78k for teacher salary* +6% ($4680) contribution toward PERS
-$52k for materials and supplies
+$78k for employee salary +6% ($4680) contribution toward PERS
+$40k for materials and supplies
+$12k for insurance, miscellaneous, e.g., snacks, transportation...
 $0 for tools (teacher has all required tools and instruments for students to use in construction, band instruments to loan, and ceramic studio equipment (kiln, wheel, pug mill, extruder). Teacher has a 29 foot enclosed mobile shop but would need a classroom and secure covered space for the build.
 
 *Summer 2018* : $30k
@@ -21,7 +22,9 @@ Six students who have demonstrated valued work ethic, academic achievement, and 
 Cost of Human Resources remain the same as 2017-18
 Cost of materials is $0 based on sale of the 2017 - 18 tiny house.
 
-*Salary is based on the Gresham-Barlow School District salary table for education and years of experience. Teacher delivers 10 unique classes per week with no prep period. Teacher donates up to $8,648 in merit pay for students.
+**Employee Salary**
+
+$78k is based on the Gresham-Barlow School District salary table for education and years of experience. (Teacher delivers 10 unique classes per week with no prep period.) From salary, teacher donates up to $8,648 in merit pay for students. Teacher also donates up to $20,000 in stipend for skilled intern(s). E.g., 190 contact days x 8hrs day x $10.00 per hour = $15,200. Thus, the teacher salary (not counting PERS) may be as low as $49,352.
 
 **Merit Pay**
 
