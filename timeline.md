@@ -17,17 +17,18 @@ After inspiration and encouragement from leaders (see "_people_") in CTE and alt
 
 **June, 2017**
 
-Adding Residential Contractor's License. Approaching school districts and potential stakeholders with MakerTeens idea
+-Adding Residential Contractor's License. 
+-Approaching school districts and potential stakeholders with MakerTeens idea
 
 **July, 2017**
 
-Organizing 30' cargo trailer for supporting Tiny House (TH) build
+-Organizing 30' cargo trailer for supporting Tiny House (TH) build
 
 **August, 2017**
 
-Applications from MakerTeens
-Hire assistant(s)
-Set up classroom and shop area
+-Applications from MakerTeens
+-Hire assistant(s)
+-Set up classroom and shop area
 
 **September, 2017**
 
