@@ -46,11 +46,13 @@ After inspiration and encouragement from leaders (see "_people_") in CTE and alt
 
 - MakerTeens construct TH floor, framing walls, roof, sheathing
 - Install windows and doors
+- Build cabinetry
 
 **December, 2017**
 
 - MakerTeens add mechanical systems to TH: electrical, plumbing, solar, 
 - Install insulation and drywall
+- Build cabinetry
 
 **January, 2018**
 
