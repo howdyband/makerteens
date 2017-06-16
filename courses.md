@@ -9,7 +9,9 @@
 
 # MAKERTEENS Courses #
  
-Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement.
+Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement. 
+
+Need motivation? When a person “falls in love”, they feel like doing all they can for the beloved. Love songs are full of sacrificial hyperbole and Herculean effort to demonstrate boundless love. Rather than wait for that to happen, each student, each hour, actively packages their life as a gift the yet unknown spouse... grandchildren....
 
 **Tiny House**
 
@@ -58,16 +60,16 @@ With help from SketchUp, we design Tiny House models with precision that require
 
 **Language Arts**
 
-CCSS for skill development within the context of other classes. E.g., reading technical construction journals, writing lyrics for band using poetic techniques, enhanced with production of dramatic theater. Language integrates of Spanish and ASL. Students read "Spare Parts" by Joshua Davis plus another novel of choice from list at
+CCSS for skill development within the context of other classes. E.g., reading technical construction journals, writing lyrics for band using poetic techniques, enhanced with production of dramatic theater. Language instruction integrates Spanish and ASL as might be useful on a construction site. Students read "Spare Parts" by Joshua Davis plus another novel of choice from list at
 http://www.oregonbattleofthebooks.org/2017-2018-obob-book-titles/
 
 Thinking is clarified with concise writing and speaking. Each word in each phrase is carefully selected for purposeful communication. Writing is required in every area, e.g., analysis of art, creating content for the website, blog, and social media. Written instructions allow others to replicate and improve on our success. Written communication is also required in unique universal languages such as mathematical reasoning, song composition, scientific formulas and graphics.
 
 **Family and Consumer Science**
 
-Student driven curriculum within the broad context of Family and Consumer Science as defined, i.e., [<a href="http://brentn.com/consumer.htm">link</a>]
+Developing practical, useful skills are motivated by each person's desire to contribute to their community of friends and family.  Skills to be acquired in Family and Consumer Science include everything from knowing how to cook healthy meals and sew curtains, to knowing how to earn, save, invest, and spend money. Business practices such as accounting for time and materials in building a tiny house, will transfer into other entrepreneurial endeavors. Skills gained in marketing and sales, and creating a web presence will provide generalized confidence in related business activities. Employment training includes making a resume, applying for FAFSA, and college. 
 
-Developing practical, useful skills are motivated by each person's desire to contribute to their community of friends and family. (Although students have not yet met their grandchildren, they can now, everyday, package their self as a gift to that unknown person who they will deeply love. When a person falls in love, they may feel like doing all they can for the beloved. Love songs are full of sacrificial hyperbole and Herculean effort to demonstrate boundless love. Rather than wait for that to happen, each student, each hour, actively packages their life as a gift to those yet unknown persons.) Skills to be acquired in Family and Consumer Science include everything from knowing how to cook healthy meals and sew curtains, to knowing how to earn, save, invest, and spend money. Business practices such as accounting for time and materials in building a tiny house, will transfer into other entrepreneurial endeavors. Skills gained in marketing and sales, and creating a web presence will provide generalized confidence in related business activities. Employment training includes making a resume, applying for FAFSA, and college. 
+Student driven curriculum within the broad context of Family and Consumer Science is defined, i.e., [<a href="http://brentn.com/consumer.htm">link</a>]
 
 **Health/PE**
 
