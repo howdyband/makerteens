@@ -21,15 +21,15 @@ Provide a dozen at-risk high school students the opportunity to build a tiny hou
 
 **MAKERTEENS practice Oregon’s 21 Century Essential Skills:**
 
-• Read and comprehend a variety of text
-• Write clearly and accurately 
-• Apply mathematics in a variety of settings 
-• Listen actively and speak clearly and coherently
-• Think critically and analytically
-• Use technology to learn, live, and work
-• Demonstrate civic and community engagement
-• Demonstrate global literacy
-• Demonstrate personal management and teamwork
+- Read and comprehend a variety of text
+- Write clearly and accurately 
+- Apply mathematics in a variety of settings 
+- Listen actively and speak clearly and coherently
+- Think critically and analytically
+- Use technology to learn, live, and work
+- Demonstrate civic and community engagement
+- Demonstrate global literacy
+- Demonstrate personal management and teamwork
 
 <hr>
 <form action="http://formspree.io/makerteens@gmail.com" method="POST">
