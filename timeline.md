@@ -32,49 +32,49 @@ After inspiration and encouragement from leaders (see "_people_") in CTE and alt
 
 **September, 2017**
 
-MakerTeens learn CAD program
-Design teams draft TH
-Purchase steel and axels
+- MakerTeens learn CAD program
+- Design teams draft TH
+- Purchase steel and axels
 
 **October, 2017**
 
-MakerTeens learn to weld and weld TH Frame
-Purchase wood for framing, sheathing, and cabinetry
-Build cabinetry
+- MakerTeens learn to weld and weld TH Frame
+- Purchase wood for framing, sheathing, and cabinetry
+- Build cabinetry
 
 **November, 2017**
 
-MakerTeens construct TH floor, framing walls, roof, sheathing
-Install windows and doors
+- MakerTeens construct TH floor, framing walls, roof, sheathing
+- Install windows and doors
 
 **December, 2017**
 
-MakerTeens add mechanical systems to TH: electrical, plumbing, solar, 
-Install insulation and drywall
+- MakerTeens add mechanical systems to TH: electrical, plumbing, solar, 
+- Install insulation and drywall
 
 **January, 2018**
 
-Install cabinetry and appliances into TH
-Shingle exterior, trim out interior
+- Install cabinetry and appliances into TH
+- Shingle exterior, trim out interior
 
 **February, 2018**
 
-Sew fabrics for upholstry, curtains 
-Install art
-DMV registration
+- Sew fabrics for upholstry, curtains 
+- Install art
+- DMV registration
 
 **March, 2018**
 
-Tour TH to community 
-Perform orignial songs about TH using handmade instruments 
+- Tour TH to community 
+- Perform orignial songs about TH using handmade instruments 
 
 **April, 2018**
 
-Market and sell TH
+- Market and sell TH
 
 **May, 2018**
 
-AP Psychology Exam
+- AP Psychology Exam
 
 **June, 2018**
 
