@@ -28,7 +28,7 @@ Ceramics (with wheel and kiln), sculpture, drawing, painting, silk screen, weavi
 Another project based learning that cuts across STEAM classes are the knowledge and skills acquired while building a musical instrument. During the year, approximently 60 hours are dedicated to learning and producing a professional quality product. Options are: electric guitar, tuned marimba, hammered dulcimer, pan flute, or other proposals. 
 Physics: waves, harmonics… Math: calculating volume of resonating spaces, geometry… Chemistry: finishes… Engineering: design, …
 
-This is the obvious "A" that transforms STEM into STEAM. Art is the creative expression that adds meaning to other disciplines. "_The greatest scientists are always artists as well_” ~ Albert Einstein
+This is the obvious "A" that transforms STEM into STEAM. Art is the creative expression that enhances the meaning of other disciplines. "_The greatest scientists are always artists as well_” ~ Albert Einstein
 
 **Social Studies: AP Psychology**
 
