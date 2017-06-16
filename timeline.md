@@ -12,57 +12,71 @@
 This timeline shows the ongoing progress of MAKERTEENS including initial idea, supports, red tape, development, and projects.
 
 **May, 2017**
+
 After inspiration and encouragement from leaders (see "_people_") in CTE and alternative education programs, the ideas took on a viable framework as expressed on the MAKERTEENS website.
 
 **June, 2017**
+
 Adding Residential Contractor's License. Approaching school districts and potential stakeholders with MakerTeens idea
 
 **July, 2017**
+
 Organizing 30' cargo trailer for supporting Tiny House (TH) build
 
 **August, 2017**
+
 Applications from MakerTeens
 Hire assistant(s)
 Set up classroom and shop area
 
 **September, 2017**
+
 MakerTeens learn CAD program
 Design teams draft TH
 Purchase steel and axels
 
 **October, 2017**
+
 MakerTeens learn to weld and weld TH Frame
 Purchase wood for framing, sheathing, and cabinetry
 Build cabinetry
 
 **November, 2017**
+
 MakerTeens construct TH floor, framing walls, roof, sheathing
 Install windows and doors
 
 **December, 2017**
+
 MakerTeens add mechanical systems to TH: electrical, plumbing, solar, 
 Install insulation and drywall
 
 **January, 2018**
+
 Install cabinetry and appliances into TH
 Shingle exterior, trim out interior
 
 **February, 2018**
+
 Sew fabrics for upholstry, curtains 
 Install art
 DMV registration
 
 **March, 2018**
+
 Tour TH to community 
 Perform orignial songs about TH using handmade instruments 
 
 **April, 2018**
+
 Market and sell TH
 
 **May, 2018**
+
 AP Psychology Exam
 
 **June, 2018**
+
 
 
 
