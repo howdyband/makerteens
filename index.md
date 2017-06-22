@@ -11,7 +11,7 @@
  
 ## Promotes High School Graduation and College and Career Readiness
 
- > The goals of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness." 
+ > The goal of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness." 
 
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well-rounded theme-based curriculum and build a Tiny House in one school year.
 
@@ -24,9 +24,9 @@ Provide a dozen at-risk high school students the opportunity to build a tiny hou
 - Language Arts
 - AP Psychology
 - AP Studio Art
-- Band (with hand built instruments)
+- Band 
 - Health/PE
-- Family and Consumer Science
+- Family and Consumer Science 
 - Web Design
 
 Students in a project-based, intense mentorship, along with job shadowing in the community, and parent engagement, will effectively move toward a diploma, personal success, and job skills. Additionally, students may earn badges and certificates in industry recognized proficiencies.
