@@ -11,7 +11,9 @@
  
 Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement. 
 
-Need motivation? When a person “falls in love”, they feel like doing all they can for the beloved. Love songs are full of sacrificial hyperbole and Herculean effort to demonstrate boundless love. Rather than wait for that to happen, each student, each hour, actively packages their life as a gift the yet unknown spouse... grandchildren....
+To increase individualized learning and promote an active classroom, classes are "flipped". Students access concise background lectures online  as homework, to demonstrate skills in the classroom. For example, a student will view shop safety videos at home, preparing to pass the safety quiz in the shop. Websites provided by the Maker Teacher may include: PsychologyLectures.com, WritEnglish.com, MakerBand.com, LearnSTEAM.com, and others.
+
+Need motivation? When a person “falls in love”, they feel like doing all they can for the beloved. Love songs are full of sacrificial hyperbole and Herculean effort to demonstrate boundless love. Rather than wait for that to happen, each student, each hour, actively packages their life as a gift for that yet unknown spouse... grandchild.... by doing their best in school today.
 
 **Tiny House**
 
