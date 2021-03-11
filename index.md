@@ -1,5 +1,5 @@
  - **[Home](index.html): Proposal for Full Year Program**
- - Proposal for Summer Program (summer.html)
+ - [Summer](summer.html): Proposal for Summer Program 
  - [About](about.html): Analysis of Need, Current Efforts, Demographics
  - [People](people.html): Students, Parents, Teacher, Advisors
  - [Courses](courses.html): Descriptions and Schedule
