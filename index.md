@@ -1,4 +1,5 @@
- - **[Home](index.html): Proposal**
+ - **[Home](index.html): Proposal for Full Year Program**
+ - Proposal for Summer Program (summer.html)
  - [About](about.html): Analysis of Need, Current Efforts, Demographics
  - [People](people.html): Students, Parents, Teacher, Advisors
  - [Courses](courses.html): Descriptions and Schedule
@@ -15,7 +16,7 @@
 
 More than a drop-out prevention program, the MAKERTEENS school within a school Career Academy model offers students college credit and career readiness skills as they complete a well-rounded theme-based curriculum and build a Tiny House in one school year.
 
-**Proposal**  
+**Proposal for Full Year Program**  
 
 Provide a dozen at-risk high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through the following classes: 
 
