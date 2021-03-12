@@ -35,7 +35,7 @@
 **Week beginning**
 <ul>
 <li>June 14: Review Construction Math, Plan Tiny House, Budget, CAD
-<li>June 2:1 Construct framing, stairs, loft
+<li>June 21: Construct framing, stairs, loft
 <li>July 5: (4th observed) Install sheathing and metal roof
 <li>July 12: Install doors, windows and skylights
 <li>July 19: Install Plumbing, Electrical, Solar
