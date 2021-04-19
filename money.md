@@ -11,28 +11,27 @@
 # MAKERTEENS: Cost of Summer 2021 Program = $66,750 #
 
 **$39,000 Budget for Tiny House Materials**
-
-	-$6000 Trailer for 24-foot-long, 8-foot-wide, 13-foot-tall tiny house. https://ironeagletinyhousetrailers.com/tinyhomes/images/PADFlyer.pdf
-	-$5000 Lumber (2x4 framing, 1 1/4” subfloor, plywood sheathing) [$5000 donation from Home Depot or Diamond?] https://corporate.homedepot.com/foundation/communityimpactgrants
-	-$3000 Doors, windows, skylights
-	-$1000 Metal Roofing
-	-$2000 Exterior house wrap and rain & ice shield, light weight vinyl paneling
-	-$3000 Electrical Wiring, Solar Panels, Inverter, breakers, outlets, and switches
-	-$2000 Insulation
-	-$2000 Plumbing and pumps (off grid, dry camp, with storage tanks for grey water, black water, and fresh water)
-	-$1000 On demand Water Heater
-	-$1000 Mini-split HVAC
-	-$1500 Composting Toilet
-	-$1500 Bathroom shower (pan and tile), sink
-	-$1000 LED light interior/exterior fixtures, running lights
-	-$1000 Cabinetry
-	-$1000 Counters
-	-$3000 Energy Star compact kitchen appliances (oven, fridge, microwave)
-	-$2000 Flooring
-	-$1000 Fasteners (Nuts, bolts, screws, nails, hurricane straps, nail plates, glue, caulking)
-	-$1000 Paint and curtains
-	-$1000 built in furniture, stairs with drawer hardware
-	-$1000 Smart Home security system
+* $6000 Trailer for 24-foot-long, 8-foot-wide, 13-foot-tall tiny house. https://ironeagletinyhousetrailers.com/tinyhomes/images/PADFlyer.pdf
+* $5000 Lumber (2x4 framing, 1 1/4” subfloor, plywood sheathing) [$5000 donation from Home Depot or Diamond?] https://corporate.homedepot.com/foundation/communityimpactgrants
+* $3000 Doors, windows, skylights
+* $1000 Metal Roofing
+* $2000 Exterior house wrap and rain & ice shield, light weight vinyl paneling
+* $3000 Electrical Wiring, Solar Panels, Inverter, breakers, outlets, and switches
+* $2000 Insulation
+* $2000 Plumbing and pumps (off grid, dry camp, with storage tanks for grey water, black water, and fresh water)
+* $1000 On demand Water Heater
+* $1000 Mini-split HVAC
+* $1500 Composting Toilet
+* $1500 Bathroom shower (pan and tile), sink
+* $1000 LED light interior/exterior fixtures, running lights
+* $1000 Cabinetry
+* $1000 Counters
+* $3000 Energy Star compact kitchen appliances (oven, fridge, microwave)
+* $2000 Flooring
+* $1000 Fasteners (Nuts, bolts, screws, nails, hurricane straps, nail plates, glue, caulking)
+* $1000 Paint and curtains
+* $1000 built in furniture, stairs with drawer hardware
+* $1000 Smart Home security system
  
 **$22,750: Budget for Staff**
 
