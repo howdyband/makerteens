@@ -46,4 +46,4 @@
 * $2000 CAD tools (iPads with software)
 * $750 Construction Tools
 
-_The MakerTeens proposal is to sell the resulting Tiny House in order to fund similiar subsequent CTE construction projects. Grant purchased tools are alos designated for such subsequent projects. Ideally, this initial investment helps toward creating a self-sustaining CTE program. _
+***The MakerTeens proposal is to sell the resulting Tiny House in order to fund similiar subsequent CTE construction projects. Grant purchased tools are also designated for such subsequent projects. Ideally, this initial investment helps toward creating a self-sustaining CTE program.***
