@@ -6,7 +6,6 @@
  - [Logistics](logistics.html): Homework, Grades, Rules
  - [Money](money.html): Cost and Funding of Program
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
- - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.html): Blog of progress with visuals!
 
 # MAKERTEENS Summer Program # 
