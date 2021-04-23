@@ -19,22 +19,25 @@
 
 **Eligibilty Prerequisites**
 
-* You are currently attending Klamath Union (KU) or Klamath Learning Center (KLC).
+* You are currently attending Klamath Union (KU), Klamath Learning Center (KLC), or Eagle Ridge (ER).
 * You passed Algebra 1 with C or better. 
-* You sign the Code of Commitment: "_During the summer June 14 - August 20 I agree to play no video games. Additionaly, I will avoid using a smart phone between 8am and 4pm._"
+* You agree to the Code of Commitment: "_During the summer June 14 - August 20 I agree to play no video games. Additionaly, I will avoid using a smart phone between 8am and 4pm._"
 * You agree to be filmed for a documentary of this MakerTeens project.
+* You agree to follow all safety rules and improve in "soft skills" as desired by industry employers.
+* You agree to comply with foreman's directives for productivity, which may include credit recovery through Odysseyware.
+* (If you cannot meet all the prerequisits, explain on your application how you intend to compensate.)
 
 
 **Dates and Times**
 
-* Apply on this site during the last week of April, 2021
+* Apply on this site during the first week of May, 2021
 * MakerTeens Project: June 14 - August 20, 2021 (44 school days)
 * 8am - 4pm (8 hours x 44 days = 352 hours)
 
 
 **Week beginning**
  
- * June 14: Review Construction Math, Plan Tiny House, Budget, CAD
+ * June 14: Review Construction Math, Safety Testing, Plan Tiny House, CAD
  * June 21: Construct framing, stairs, loft
  * July 5: (4th observed) Install sheathing and metal roof
  * July 12: Install doors, windows and skylights
