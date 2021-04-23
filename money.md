@@ -8,7 +8,7 @@
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.html): Blog of progress with visuals
 
-# MAKERTEENS: Cost of Summer 2021 Program = $66,750 #
+# MAKERTEENS: Cost of Summer 2021 Program = $64,750 #
 
 **$39,000 Budget for Tiny House Materials**
 * $6000 Trailer for 24-foot-long, 8-foot-wide, 13-foot-tall tiny house. https://ironeagletinyhousetrailers.com/tinyhomes/images/PADFlyer.pdf
@@ -39,7 +39,7 @@
 * $750 per week for Program Assistant(s) skilled in HVAC, plumbing, electrical. . . ($750 x 9 weeks = $6750)
 * Merit Incentive (up to $500 per student x 12 students= $6000).
 
-**$5000 rent and tools**
+**$3000 rent and tools**
 
 * $250 per week for rental of build site. ($250 x 9 weeks = $2250)
 * $2000 CAD tools (iPads with software)
