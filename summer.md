@@ -19,7 +19,7 @@
 **Eligibilty Prerequisites**
 
 * You are currently attending Klamath Union (KU), Klamath Learning Center (KLC), or Eagle Ridge (ER).
-* You passed Algebra 1 with C or better. 
+* You passed Algebra 1 with a "C" or better. 
 * You agree to the Code of Commitment: "_During the summer June 14 - August 20 I agree to play no video games. Additionaly, I will avoid using a smart phone between 8am and 4pm._"
 * You agree to be filmed for a documentary of this MakerTeens project.
 * You agree to follow all safety rules and improve in "soft skills" as desired by industry employers.
