@@ -1,7 +1,7 @@
 # Music Video: a one-week, 40 hour elective for 0.5 credits
 *[Up to 10 high school students will compose, storyboard, sing, lip-sync, perform, video edit, produce and publish a music video of an original song (not a cover). 
 Students need not have musical talent, only bravery. The goal is to experience the process more than the production of excellence. 
-Course is taught by a state endorsed music teacher.]*
+Course is taught by a state endorsed music teacher. If interested, select "Music Video" at [HowdyBand.com/contact.htm](https://HowdyBand.com/contact.html)]*
 
 ## Day 1 AM: Brainstorm
 - 1st hour: Overview of process; Inventory of group's skills and assets.
