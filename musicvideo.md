@@ -38,7 +38,8 @@ Course is taught by a state endorsed music teacher.]*
 - 2nd hour: Repair tracks, mix and refine alignments, over dubs
 - 3rd hour: mix and master 
 - 4th hour: Dress rehearsal while listening to song
-*[students not involved in editing are to work on their individual song compositions]
+
+*[students not involved in editing are to work on their individual song compositions]*
 
 ## Day 4 AM: Lip-syncing
 - 1st hour: Refine green screen, multi-camera angles, microphones, and lights 
