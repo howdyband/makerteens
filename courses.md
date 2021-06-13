@@ -53,6 +53,8 @@ Included in the curricular scope of psychology are studies  which enable the for
 
 Far more than an opportunity to be awarded college credit for coursework done in high school, psychology increases the understanding of our internal strengths and weaknesses. This awareness is core to empowering the customization of character, forming beneficial habits that displace harmful habits. Awareness of personality traits allow for revision, addition, and even deletion of traits as students build a reputation.
 
+Psychology is to other subjects, such a genetics in the study of traits in psychology, or anatomy and physiology of the nervous system.
+
 **Media** 
 
 MAKERTEENS create websites (HTML, CSS, PHP…) and produce content (videography, interviews, reports) to document Tiny House process, raise support for material donations, and display their digital portfolios. Videography includes using the teacher’s drones (windwhisker.com).
@@ -65,15 +67,22 @@ Making music causes deep and enduring changes to brain structure, more than any 
 
 **Integrated Science**
 
-As related to other subjects, such a genetics in the study of traits in psychology, or anatomy and physiology of the nervous system. Physics as related to construction or how instruments produce sounds. Color theory and frequency of light... all based in the skill set advocated by the Next Generation Science Standards, with scientific inquiry and lab experience.
+This course serves as a practical introduction to full courses in biology, physics, and chemistry. Students gain familiarity with the periodic table, chemical compounds and reactions, forces and motion, energy and machines, electromagnetism, waves, and geologic survey related to construction sites, and septic fields. 
+
+Physics as related to construction or how instruments produce sounds. Color theory and frequency of light... all based in the skill set advocated by the Next Generation Science Standards, with scientific inquiry and lab experience.
 
 Science comes first in the STEAM project based model. Scientific thinking is integrated into every aspect of our alternative high school. Students think critically as they research and evaluate the merits of competing ideas. Students test claims and report their findings in concise written and oral communication. The study of physics is most often the focus as we learn about such things as manipulating waves in art and music, and learning why simple and complex machines make human effort more efficient while we build our tiny house. In biology we learn about the dangers of mold and how to prevent its growth inside the tiny house. Within the category of biology we also learn about plants to use for improving indoor air quality. Biology includes overlap in such things as body health and the study of brain anatomy and physiology in psychology. Environmental science is important in such concerns as the sustainable selection of building materials, the disposal of waste, and grey water filtration and recycling. Chemistry includes explorations into why certain cleaners work better than others. What reactions drive an efficient HVAC system to cool and heat the house? Keeping Science at the forefront of STEAM provides a constant reminder to look for teachable moments in the unexpected twists of project based learning.
+
+**Geometry**
+
+Prerequisite: Algebra 1 
+Geometry uses deductive reasoning to understand and construct two and three dimensional models. In the practical application of design, computer assisted drafting (CAD) is used to demonstrate proficiency through course exercises. 
 
 **Construction Math**
 
 Mainly practical geometry, engineering, architectural math, and introduction to math needed in electrical and plumbing.
 
-With help from SketchUp, we design Tiny House models with precision that requires a working knowledge of geometry. Calculating electrical and plumbing flows, loads, and capacities requires algebraic understanding, particularly with an off grid house that relies on solar energy. Transferring a scale model of complex roof angles to making the actual cuts requires confidence in the accuracy of mathematic calculations.
+With help from CAD, we design Tiny House models with precision that requires a working knowledge of geometry. Calculating electrical and plumbing flows, loads, and capacities requires algebraic understanding, particularly with an off grid house that relies on solar energy. Transferring a scale model of complex roof angles to making the actual cuts requires confidence in the accuracy of mathematic calculations.
 
 **Language Arts**
 
