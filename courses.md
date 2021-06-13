@@ -91,9 +91,13 @@ http://www.oregonbattleofthebooks.org/2017-2018-obob-book-titles/
 
 Thinking is clarified with concise writing and speaking. Each word in each phrase is carefully selected for purposeful communication. Writing is required in every area, e.g., analysis of art, creating content for the website, blog, and social media. Written instructions allow others to replicate and improve on our success. Written communication is also required in unique universal languages such as mathematical reasoning, song composition, scientific formulas and graphics.
 
+**Spanish**
+
+One semester of Spanish is spread throughout the year as each school day starts with a lesson on the Spanish phrases that are to be used that day by students, as per their ability level. Students may test into Spanish I, II, or III for transcribed course content. Students maintain a vocabulary tracker and demonstrate systematic competency in verb tenses. The goal is to effectively communicate with Spanish only speakers on a construction job site. 
+
 **Family and Consumer Science**
 
-Developing practical, useful skills are motivated by each person's desire to contribute to their community of friends and family.  Skills to be acquired in Family and Consumer Science include everything from knowing how to cook healthy meals and sew curtains, to knowing how to earn, save, invest, and spend money. Business practices such as accounting for time and materials in building a tiny house, will transfer into other entrepreneurial endeavors. Skills gained in marketing and sales, and creating a web presence will provide generalized confidence in related business activities. Employment training includes making a resume, applying for FAFSA, and college. 
+Developing practical, useful skills are motivated by each person's desire to contribute to their community of friends and family.  Skills to be acquired in Family and Consumer Science include everything from knowing how to cook healthy meals and sew curtains, upholstery, to knowing how to earn, save, invest, and spend money. Business practices such as accounting for time and materials in building a tiny house, will transfer into other entrepreneurial endeavors. Skills gained in marketing and sales, and creating a web presence will provide generalized confidence in related business activities. Employment training includes making a resume, applying for FAFSA, and college. 
 
 Student driven curriculum within the broad context of Family and Consumer Science is defined, i.e., [<a href="http://brentn.com/consumer.htm">link</a>]
 
