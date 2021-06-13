@@ -21,7 +21,7 @@ Sometimes students who display at-risk factors such as sporadic school attendanc
 
 **Parent Qualifications**  
 
-Parents are uniquely qualified to inform the teacher of “wraparound” issues at home and in the community. In order for their teen to be in the program, parent(s) (or guardian) need to commit to monthly meetings where we discuss parenting issues. Additionally, each parent would need to make time to randomly visit at least one hour of class per month. In the “Check and Connect” model, adults make frequent time to proactively acknowledge students positive behaviors, rather than primarily reacting to student misbehaviors. The resulting authentic praise promotes healthy communicating relationships.
+Parents are uniquely qualified to inform the teacher of “wraparound” issues at home and in the community. In order for their teen to be in the program, parent(s) (or guardian) need to commit to monthly meetings where we discuss parenting issues. Additionally, each parent would need to make time to randomly visit at least one hour of class per month. In the “Check and Connect” model, adults make frequent time to proactively acknowledge students positive behaviors, rather than primarily reacting to student misbehaviors. The resulting authentic praise promotes healthy communicating relationships. (Details to consider: https://educationnorthwest.org/sites/default/files/pbd.pdf)
 
 **Teacher Qualifications**  
 
