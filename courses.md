@@ -11,15 +11,15 @@
  
 MakerTeens aligns with Oregon State requirements toward earning a regular diploma, a modified diploma (OAR 581-022-1134), or an alternative certificate (OAR 581-022-1135). MakerTeens prepares students toward proficiency in the essential skills of reading, writing, math, and others listed at https://www.oregon.gov/ode/educator-resources/essentialskills/Documents/es_definitions_grad-requirements.pdf . For information about special diploma types, visit https://www.oregon.gov/ode/students-and-family/SpecialEducation/SecondaryTransition/Documents/faqs-2015-transition-book_final2.pdf
 
-MakerTeens, in colaboration with college and school district counselors, offers comprehensive guidance and counseling. Students 
+MakerTeens, in colaboration with college and school district counselors, offers comprehensive guidance and counseling. 
 
-Asynchronous classes are designed in a pre/post test model that allows credit for demonstration of rigours and authentice proficiency. https://www.oregon.gov/ode/students-and-family/OregonDiploma/PLR/Pages/Proficiency-Grading.aspx
+Asynchronous classes are designed in a pre/post test model that allows credit for demonstration of rigourous and authentic proficiency. https://www.oregon.gov/ode/students-and-family/OregonDiploma/PLR/Pages/Proficiency-Grading.aspx
 
 Students are encouraged to take all of the following courses in a single year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny House construction. 
 
-MakerTeens, who are not actively involved with Tiny House construction, are expected to be working in their asynchronous classes. To increase individualized learning and promote an active classroom, some classes are "flipped". Students access concise background lectures online as homework, to demonstrate skills in the classroom. For example, a student will view shop safety videos at home, preparing to pass the safety quiz in the shop. Websites provided by the Maker Teacher may include: PsychologyLectures.com, WritEnglish.com, MakerBand.com, LearnSTEAM.com, and others.
+MakerTeens, who are not actively involved with Tiny House construction, are expected to be working in their asynchronous classes.
 
-|State Requirements| MakerTeen Opportunities| 
+|State Requirements: 24 Credits| MakerTeen Opportunities: 10+ credits| 
 |:------------|:------------ |
 |4 credits in English| 1.0 English (individualized per grade level) |
 |3 credits in Math (Algebra I, II, Geometry) | 1.0 Geometry | 
@@ -28,7 +28,7 @@ MakerTeens, who are not actively involved with Tiny House construction, are expe
 |3 credits in Social Studies <br>(1.0 WHist, 1.0 US Hist, 0.5 Economics, 0.5 Government) | 0.5 Economics (asynchronous) | 
 |1 credit in Health (I & II) | 0.5 Health II (asynchronous) |
 |1 credit in Physical Education | 0.5 Physical Education |
-|5.5 credits in Electives | 0.5 Media <br> 0.5 Construction Math <br> 1.0 AP Psychology <br> 0.5 Community Service <br> 0.5 Integrated Science <br> 0.5 Family and Consumer Science <br> (and any overflow from categories already met) |
+|6 credits in Electives | 0.5 Media <br> 0.5 Construction Math <br> 1.0 AP Psychology <br> 0.5 Community Service <br> 0.5 Integrated Science <br> 0.5 Family and Consumer Science <br> (and any overflow from categories already met) |
 
 **Tiny House**
 
@@ -75,7 +75,7 @@ Science comes first in the STEAM project based model. Scientific thinking is int
 
 **Geometry**
 
-Prerequisite: Algebra 1 
+Prerequisite: Algebra 1 <br>
 Geometry uses deductive reasoning to understand and construct two and three dimensional models. In the practical application of design, computer assisted drafting (CAD) is used to demonstrate proficiency through course exercises. 
 
 **Construction Math**
@@ -111,6 +111,10 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 6 hours: MAKERTEENS team building weekend activities<br>
 3 hours: Cleaning up or improving a public space<br>
 
+**Homework**
+
+To increase individualized learning and promote an active classroom, some classes are "flipped". Students access concise background lectures online as homework, to prepare to demonstrate skills in the classroom. For example, a student will view shop safety videos at home, preparing to pass the safety quiz in the shop. Sections in the students Homework Journal include time spent practicing a band instrument, PE activity log, reading response journal, community involvement, and media tracker.  Websites provided by the Maker Teacher may include: PsychologyLectures.com, WritEnglish.com, MakerBand.com, LearnSTEAM.com, and others. 
+
 **Schedule**
 
 (7 hours of class time per day) (8am-4pm with time off for breaks and lunch)
@@ -119,14 +123,14 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 |:------------|:------------ |:------------:|:------------| ------------|
 |8:00 - 10:00| AP Studio Art <br>(2 hrs)| Integrated Science <br>(2 hrs)|Family and Consumer Science <br>(2 hrs)|Off-site activites|
 |10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) |Cross-age Volunteer ||
-|11:00 - 12:00| Web Design <br>(1 hr)| Construction Math <br>(1 hr) | Tiny House  |  |
+|11:00 - 12:00| Media <br>(1 hr)| Construction Math <br>(1 hr) | Tiny House  |  |
 |12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch <br>(0.5 hr) | |
 |12:30 - 2:30| Tiny House <br>(2 hrs)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
-|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>(1.5 hrs)|  "           " | including supporting <br>school sports and music | 
+|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>(1.5 hrs)| Tiny House or Job Shadow | including supporting <br>school sports and music | 
 
 *Friday*
 
-After a couple hours of *Family and Consumer Science* we volunteer to mentor elementary age children, to be mentored by the elderly, and perhaps take a field trip to a job shadow work site. We work on the Tiny House if behind schedule, but may also catch up with other projects as may be needed for credit recovery.
+After a couple hours of *Family and Consumer Science* we volunteer to mentor elementary age children, to be mentored by the elderly, and/or take a field trip to a job shadow work site. We work on the Tiny House if behind schedule, but may also catch up with other projects as may be needed for credit recovery.
 
 *Saturday*
 
