@@ -9,78 +9,80 @@
 
 # MAKERTEENS Timeline #
 
-This timeline shows the ongoing progress of MAKERTEENS including initial idea, supports, red tape, development, and projects.
+This timeline shows the ongoing, and proposed progress of MAKERTEENS including initial idea, supports, red tape, development, and projects.
 
 **May, 2017**
-
-After inspiration and encouragement from leaders (see "_people_") in CTE and alternative education programs, the ideas took on a viable framework as expressed on the MAKERTEENS website.
+- After inspiration and encouragement from leaders (see "_people_") in CTE and alternative education programs, the ideas took on a viable framework as drafted on the MAKERTEENS website.
 
 **June, 2017**
-
-- Adding Residential Contractor's License. 
 - Approaching school districts and potential stakeholders with MakerTeens idea
 
-**July, 2017**
+**2017 - 2018**
+- Organizing 30' cargo trailer for supporting Tiny House build
 
-- Organizing 30' cargo trailer for supporting Tiny House (TH) build
+**2018 - 2021**
+- Teacher preparation, course development
 
-**August, 2017**
+**2021 - 2022**
+- Gain Principal Lincense, CTE endorsement
+- Gain approval from School Board and ODE
 
+**August, 2022**
 - Applications from MakerTeens
 - Hire assistant(s)
 - Set up classroom and shop area
 
-**September, 2017**
-
+**September, 2022**
 - MakerTeens learn CAD program
 - Design teams draft TH
 - Purchase steel and axels
 
-**October, 2017**
+**October, 2022**
 
-- MakerTeens learn to weld and weld TH Frame
+- MakerTeens learn to weld and weld Tiny House Frame
 - Purchase wood for framing, sheathing, and cabinetry
 - Build cabinetry
 
-**November, 2017**
+**November, 2022**
 
 - MakerTeens construct TH floor, framing walls, roof, sheathing
 - Install windows and doors
 - Build cabinetry
 
-**December, 2017**
+**December, 2022**
 
 - MakerTeens add mechanical systems to TH: electrical, plumbing, solar, 
 - Install insulation and drywall
 - Build cabinetry
 
-**January, 2018**
+**January, 2023**
 
 - Install cabinetry and appliances into TH
 - Shingle exterior, trim out interior
 
-**February, 2018**
+**February, 2023**
 
 - Sew fabrics for upholstry, curtains 
 - Install art
 - DMV registration
 
-**March, 2018**
+**March, 2023**
 
 - Tour TH to community 
 - Perform orignial songs about TH using handmade instruments 
 
-**April, 2018**
+**April, 2023**
 
-- Market and sell TH
+- Fabricate Trailer Frame for next year's Tiny House
 
-**May, 2018**
+**May, 2023**
 
 - AP Psychology Exam
+- Submit AP Studio Art Portfolio
 
-**June, 2018**
+**June, 2023**
 
-
+- Market and sell Tiny House
 
 
 **M98 Criteria for Approval of Biennial Plan**  
