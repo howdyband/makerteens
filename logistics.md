@@ -12,7 +12,7 @@
 
 **Rules**: 
 
-Students must abide by school's student code handbook in order to remain in the program. However, when permitted, peer- mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
+Students must abide by school's student code handbook in order to remain in the program. However, when permitted, peer-mediated interventions to student infractions follow the model of restorative justice. Clear expectations and self-monitoring tools assist students to avoid detrimental triggers and increase skills in conflict resolution.
 
 **Homework**: 
 
@@ -41,4 +41,4 @@ For example, a student who arrives in formal attire on Tuesday is credited $5. T
 Initiated in October, each month students elect 2 representatives to the legislature and 1 executive who appoints 3 judges, to be confirmed by the legislature. Judges decide merit pay, penalties, and determine restorative justice among peers. Judges serve 4 consecutive months. The Executive may be reelected up to 3 consecutive months. 
 
 **Enrollment**:
-Every 2 weeks, the placement team (teacher, admin, parent...) may decide to return a student into regular education or place a student into the more restrictive MAKERTEENS program. Scenario:  The administration suspends a student for 10 days and the placement team decides the LRE will be the MAKERTEENS program. This window of open enrollment diminishes disruptions to the 2 week lesson units in the MAKERTEENS classroom.  Ideally, the window receives no more than one student at a time due to the potential volatile group dynamics of this population.
+Every 2 weeks, the placement team (teacher, admin, parent...) may decide to return a student into regular education or place a student into the more restrictive MAKERTEENS program. Scenario:  The administration suspends a student for 10 days and the placement team decides the LRE will be the MAKERTEENS program. This window of open enrollment diminishes disruptions to the 2 week lesson units in the MAKERTEENS classroom.  Ideally, enrollments occur in bulk at the start of each semester.
