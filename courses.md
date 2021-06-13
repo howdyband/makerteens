@@ -129,7 +129,7 @@ In the fall, all students take the first course through Klamath Community Colleg
 
 To increase individualized learning and promote an active classroom, some classes are "flipped". Students access concise background lectures online as homework, to prepare to demonstrate skills in the classroom. For example, a student will view shop safety videos at home, preparing to pass the safety quiz in the shop. Sections in the students Homework Journal include time spent practicing a band instrument, PE activity log, reading response journal, community involvement, and media tracker.  Websites provided by the Maker Teacher may include: PsychologyLectures.com, WritEnglish.com, MakerBand.com, LearnSTEAM.com, and others. 
 
-**Schedule**
+**Example Schedule**
 
 (7 hours of class time per day) (8am-4pm with time off for breaks and lunch)
 
