@@ -20,7 +20,7 @@ Additionally, viable cross-curricular project-based learning is more feasible an
 
 This alternative school provides the IEP team with another possible least restrictive environment (LRE) in their continuum of placement options. The U.S. Department of Education defines an alternative education school as ”a public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school and provides nontraditional education which is not categorized solely as regular education, special education, vocational education, gifted and talented or magnet school programs” (U.S. Department of Education, 2002, p. 55).
 
-The alternative education teacher is not a lone ranger but is seen as a team member who collaborates by blending RTI (Response to Intervention) and individual PBIS student supports and interventions for students with significant behavioral needs in the wraparound planning process. 
+The alternative education teacher is not a lone ranger but is seen as a team member who collaborates by blending RTI (Response to Intervention) and individual PBIS student supports and interventions for students with significant behavioral needs in the wraparound planning process. Student, Family and school staff work together to form the student's education plan and profile (EPP) to help students pursue their personal, educational, career interests, and post-high school goals.
 
 MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as employees, and practice for college admission interviews in order to effectively thrive in any potential contingency. 
 
