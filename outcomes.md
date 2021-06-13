@@ -36,6 +36,8 @@ http://www.habitsofmindinstitute.org/wp-content/uploads/2014/05/HOM.Chart_.Horiz
 
 A toxic mental environment forms dysfunctional cognitive habits. Far more important than building a Tiny House, we are remodeling a brain. Through intense and constant diligence, we are forming new responses to old triggers. When challenges beg us to quit, or feign apathy, we support each other with perseverance, courage, and curiosity to conquer every challenge. The brain so disciplined gains strength to better meet the next challenge. 
 
+Need motivation? When a person “falls in love”, they feel like doing all they can for the beloved. Love songs are full of sacrificial hyperbole and Herculean effort to demonstrate boundless love. Rather than wait for that love motivation to happen, each MakerTeen, each hour, actively packages their life as a gift for that yet unknown spouse... grandchild.... by doing their best in school today, so they will have more to give tomorrow.
+
 **Outcomes Tracked and Reported:**
 
 * Average daily attendance rate and percentage of students chronically absent 
