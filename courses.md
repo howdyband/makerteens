@@ -47,7 +47,7 @@ Physics: waves, harmonics… Math: calculating volume of resonating spaces, geom
 
 This is the obvious "A" that transforms STEM into STEAM. Art is the creative expression that enhances the meaning of other disciplines. "_The greatest scientists are always artists as well_” ~ Albert Einstein
 
-**Social Studies: AP Psychology**
+**AP Psychology**
 
 Included in the curricular scope of psychology are studies  which enable the formation of better study skills, healthier concepts of self, stronger resistance to negative peer influence, and protection from cognitive errors. Students may earn college credit by passing the May exam.
 
@@ -95,7 +95,13 @@ Thinking is clarified with concise writing and speaking. Each word in each phras
 
 One semester of Spanish is spread throughout the year as each school day starts with a lesson on the Spanish phrases that are to be used that day by students, as per their ability level. Students may test into Spanish I, II, or III for transcribed course content. Students maintain a vocabulary tracker and demonstrate systematic competency in verb tenses. The goal is to effectively communicate with Spanish only speakers on a construction job site. 
 
-**Family and Consumer Science**
+**Economics**
+
+The principals of Economics are often discussed using fictional widgets. Conversely, this course uses the very real business of manufactoring and selling a Tiny House. Microeconomic principles of supply and demand, equilibrium, opportunity cost, and elasticity will be addressed. Macroeconomics introduces such topics as sustainable housing on a global scale, cost of energy, and the tradgedy of the commons.
+
+Personal Finance, although introduced, is covered in "Family and Consumer Science" with lessons in credit, debt, savings, and investments.
+
+**Family and Consumer Science (FACS)**
 
 Developing practical, useful skills are motivated by each person's desire to contribute to their community of friends and family.  Skills to be acquired in Family and Consumer Science include everything from knowing how to cook healthy meals and sew curtains, upholstery, to knowing how to earn, save, invest, and spend money. Business practices such as accounting for time and materials in building a tiny house, will transfer into other entrepreneurial endeavors. Skills gained in marketing and sales, and creating a web presence will provide generalized confidence in related business activities. Employment training includes making a resume, applying for FAFSA, and college. 
 
@@ -105,6 +111,10 @@ Student driven curriculum within the broad context of Family and Consumer Scienc
 
 The eight health skills that students will develop are: Concepts, Accessing Information, Self Management, Analyzing Influences, Interpersonal Communication, Goal Setting, Decision Making, and Advocacy.
 Productivity is enhanced by a work crew who maintains top physical fitness through exercise and nutrition. As we train our minds through psychological principles, we train our bodies through active implementation of physical education and health. Exercise makes for stronger brains and psychological wellness. MakerTeens are encouraged to participate in school district sports.
+
+**Welding**
+
+In the fall, all students take the first course through Klamath Community College and may continue this pathway toward earning KCC's one-year certificate of completion in welding. Emphasis areas include shielded metal arc welding (SMAW), gas tungsten arc welding (GTAW), gas metal arc welding (GMAW), flux-cored arc welding (FCAW), oxyacetylene welding and cutting (OAW), and basic fabrication. In the spring, advanced students fabricate the trailer frame for next year's Tiny House build.
 
 **Community Involvement** (40 hours per semester)
 
@@ -130,7 +140,7 @@ To increase individualized learning and promote an active classroom, some classe
 |11:00 - 12:00| Media <br>(1 hr)| Construction Math <br>(1 hr) | Tiny House  |  |
 |12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch <br>(0.5 hr) | |
 |12:30 - 2:30| Tiny House <br>(2 hrs)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
-|2:30 - 4:00| Tiny House <br>(1.5 hrs) |Band <br>(1.5 hrs)| Tiny House or Job Shadow | including supporting <br>school sports and music | 
+|2:30 - 4:00| Welding <br>(1.5 hrs) |Band <br>(1.5 hrs)| Tiny House or Job Shadow | including supporting <br>school sports and music | 
 
 *Friday*
 
