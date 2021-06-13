@@ -9,15 +9,30 @@
 
 # MAKERTEENS Courses #
  
-Students are encouraged to take all of the following courses in this year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny house construction, and parental involvement. 
+MakerTeens aligns with Oregon State requirements toward earning a regular diploma, a modified diploma (OAR 581-022-1134), or an alternative certificate (OAR 581-022-1135). MakerTeens prepares students toward proficiency in the essential skills of reading, writing, math, and others listed at https://www.oregon.gov/ode/educator-resources/essentialskills/Documents/es_definitions_grad-requirements.pdf . For information about special diploma types, visit https://www.oregon.gov/ode/students-and-family/SpecialEducation/SecondaryTransition/Documents/faqs-2015-transition-book_final2.pdf
 
-To increase individualized learning and promote an active classroom, classes are "flipped". Students access concise background lectures online  as homework, to demonstrate skills in the classroom. For example, a student will view shop safety videos at home, preparing to pass the safety quiz in the shop. Websites provided by the Maker Teacher may include: PsychologyLectures.com, WritEnglish.com, MakerBand.com, LearnSTEAM.com, and others.
+MakerTeens, in colaboration with college and school district counselors, offers comprehensive guidance and counseling. Students 
 
-Need motivation? When a person “falls in love”, they feel like doing all they can for the beloved. Love songs are full of sacrificial hyperbole and Herculean effort to demonstrate boundless love. Rather than wait for that to happen, each student, each hour, actively packages their life as a gift for that yet unknown spouse... grandchild.... by doing their best in school today.
+Asynchronous classes are designed in a pre/post test model that allows credit for demonstration of rigours and authentice proficiency. https://www.oregon.gov/ode/students-and-family/OregonDiploma/PLR/Pages/Proficiency-Grading.aspx
+
+Students are encouraged to take all of the following courses in a single year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny House construction. 
+
+MakerTeens, who are not actively involved with Tiny House construction, are expected to be working in their asynchronous classes. To increase individualized learning and promote an active classroom, some classes are "flipped". Students access concise background lectures online as homework, to demonstrate skills in the classroom. For example, a student will view shop safety videos at home, preparing to pass the safety quiz in the shop. Websites provided by the Maker Teacher may include: PsychologyLectures.com, WritEnglish.com, MakerBand.com, LearnSTEAM.com, and others.
+
+|State Requirements| MakerTeen Opportunities| 
+|:------------|:------------ |
+|4 credits in English| 1.0 English (individualized per grade level) |
+|3 credits in Math (Algebra I, II, Geometry) | 1.0 Geometry | 
+|3 credits in Science| 0.5 Environmental Science (asynchronous) | 
+|3 credits in Fine & Applied Arts / Second Language / CTE | 2.0 CTE: Construction <br> 1.0 AP Studio Art <br>  0.5 Band <br> 0.5 Spanish | 
+|3 credits in Social Studies <br>(1.0 WHist, 1.0 US Hist, 0.5 Economics, 0.5 Government) | 0.5 Economics (asynchronous) | 
+|1 credit in Health (I & II) | 0.5 Health II (asynchronous) |
+|1 credit in Physical Education | 0.5 Physical Education |
+|5.5 credits in Electives | 0.5 Media <br> 0.5 Construction Math <br> 1.0 AP Psychology <br> 0.5 Community Service <br> 0.5 Integrated Science <br> 0.5 Family and Consumer Science <br> (and any overflow from categories already met) |
 
 **Tiny House**
 
-The core career and technical activity is to build a tiny house over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design from weld fabricating the trailer frame to finishing with interior design artwork. Technical aspects also include use of solar voltaics, hydraulics, and programing a microcontroller such as an Arduino. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The house is sold to cover costs and contribute to next year's project. Resource: http://www.tinyhousecommunity.com/build.htm
+The core career and technical activity is to build a tiny house over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design from weld fabricating the trailer frame to finishing with interior design artwork. Technical aspects also include use of solar voltaics, hydraulics, and programing a microcontroller such as an Arduino. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The house is sold to cover costs and contribute to next year's project. Resource: https://tinyhousecommunity.com/building-tips/
 
 Engineering and building the Tiny House is the vehicle used to display all the participants' growth in other areas. Art, Music, Math, Science, and more join together in this project based experience. The process presents opportunities to experience and direct psychological phenomenon that serve to improve each mind, each character of integrity and perseverance. 
 
@@ -50,7 +65,7 @@ Making music causes deep and enduring changes to brain structure, more than any 
 
 **Integrated Science**
 
-As related to other subjects, such a genetics in the study of traits in psychology, or anatomy and physiology of the nervous system. Physics as related to construction or how instruments produce sounds. Color theory and frequency of light... all based in the skill set advocated by the Next Generation Science Standards.
+As related to other subjects, such a genetics in the study of traits in psychology, or anatomy and physiology of the nervous system. Physics as related to construction or how instruments produce sounds. Color theory and frequency of light... all based in the skill set advocated by the Next Generation Science Standards, with scientific inquiry and lab experience.
 
 Science comes first in the STEAM project based model. Scientific thinking is integrated into every aspect of our alternative high school. Students think critically as they research and evaluate the merits of competing ideas. Students test claims and report their findings in concise written and oral communication. The study of physics is most often the focus as we learn about such things as manipulating waves in art and music, and learning why simple and complex machines make human effort more efficient while we build our tiny house. In biology we learn about the dangers of mold and how to prevent its growth inside the tiny house. Within the category of biology we also learn about plants to use for improving indoor air quality. Biology includes overlap in such things as body health and the study of brain anatomy and physiology in psychology. Environmental science is important in such concerns as the sustainable selection of building materials, the disposal of waste, and grey water filtration and recycling. Chemistry includes explorations into why certain cleaners work better than others. What reactions drive an efficient HVAC system to cool and heat the house? Keeping Science at the forefront of STEAM provides a constant reminder to look for teachable moments in the unexpected twists of project based learning.
 
@@ -75,7 +90,8 @@ Student driven curriculum within the broad context of Family and Consumer Scienc
 
 **Health/PE**
 
-Productivity is enhanced by a work crew who maintains top physical fitness through exercise and nutrition. As we train our minds through psychological principles, we train our bodies through active implementation of physical education and health. Exercise makes for stronger brains and psychological wellness. The eight health skills that students will develop are: Concepts, Accessing Information, Self Management, Analyzing Influences, Interpersonal Communication, Goal Setting, Decision Making, and Advocacy.
+The eight health skills that students will develop are: Concepts, Accessing Information, Self Management, Analyzing Influences, Interpersonal Communication, Goal Setting, Decision Making, and Advocacy.
+Productivity is enhanced by a work crew who maintains top physical fitness through exercise and nutrition. As we train our minds through psychological principles, we train our bodies through active implementation of physical education and health. Exercise makes for stronger brains and psychological wellness. MakerTeens are encouraged to participate in school district sports.
 
 **Community Involvement** (40 hours per semester)
 
