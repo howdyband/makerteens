@@ -8,7 +8,7 @@
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.html): Blog of progress with visuals!
  
-# MAKERTEENS <br>proposed start: 2022 - 2023 school year
+# MAKERTEENS <br>2022 - 2023 school year
  
 ## Promotes High School Graduation and College and Career Readiness
 
