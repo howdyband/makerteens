@@ -11,13 +11,13 @@
 
 **Student Qualifications**  
 
-Any student entering grade 9 - 12 may apply with the understanding that selection is prioritize to "serve those students identified by the school district as most at-risk of not graduating or being college or career ready, historically and traditionally marginalized and historically underrepresented". Current dropouts, age 20 or younger, may also apply. Ten to fourteen successful applicants will have recommendations from two school staff members. Students may not repeat this opportunity in a subsequent year.
+Although MakerTeens works best for students who have passed Alegbra I, any student entering grade 9 - 12 may apply. More than half of those selected are "identified by the school district as most at-risk of not graduating or being college or career ready, historically and traditionally marginalized and historically underrepresented". Current dropouts, age 20 or younger, may also apply. Successful applicants will have recommendations from two school staff members. Students may not repeat this opportunity in a subsequent year.
 
 Often students at risk of dropping out have experienced Adverse Childhood Experiences (ACEs), toxic stress, and other dysfunctional contexts that have negatively impacted brain development. Fortunately, with intensive care and retraining, the plasticity of the adolescent brain can grow health promoting neural pathways while allowing bad habits of mind to be pruned away. Students willing to contractually commit to the demands of the MAKERTEENS program are ideal candidates. A student needs a willingness to stick with selected classes and activities throughout the school year. Contracts are signed so parents and students fully understand their rigorous commitments.
 
 Students with severe emotional/behavioral disorders and/or chronic aggressive behaviors, are not categorically disallowed to apply. However, due to the necessity for vigilant shop safety, including working with power tools, it would be problematic for unsafe students to remain in the program.
 
-High achieving students, although rare, may also display at-risk factors such as sporadic school attendance and/or disengagement from extra-curricular school events.
+Sometimes students who display at-risk factors such as sporadic school attendance and/or disengagement from extra-curricular school events are high achieving students.
 
 **Parent Qualifications**  
 
@@ -65,6 +65,7 @@ The teacher is available to MAKERTEENS 24/7 via phone call.
 *   Chris Higginbotham, Oregon CTE Teacher of the "Viking House" construction class at Forest Grove High School. www.fghsvikinghouse.com
 *   Patrick Hawke, Oregon CTE Teacher, currently living in Boise, Idaho.
 *   Kristin Gunson, CTE Regional Coordinator for Lane ESD, kgunson@lesd.k12.or.us
+*   Brian Robin, CTE Regional Coordinator for Southern Oregon ESD, brian_robin@soesd.k12.or.us
 *   heartoforegon.org/programs/youthbuild.html
 
 > True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well. **— Bill Owens**
