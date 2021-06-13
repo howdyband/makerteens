@@ -24,11 +24,11 @@ MakerTeens, who are not actively involved with Tiny House construction, are expe
 |4 credits in English| 1.0 English (individualized per grade level) |
 |3 credits in Math (Algebra I, II, Geometry) | 1.0 Geometry | 
 |3 credits in Science| 0.5 Environmental Science (asynchronous) | 
-|3 credits in Fine & Applied Arts / Second Language / CTE | 2.0 CTE: Construction <br> 1.0 AP Studio Art <br>  0.5 Band <br> 0.5 Spanish | 
+|3 credits in Fine & Applied Arts / Second Language / CTE | 2.0 CTE: Construction <br> 1.0 AP Studio Art <br>  0.5 Band (0.25 per semester) <br> 0.5 Spanish (0.25 per semester) | 
 |3 credits in Social Studies <br>(1.0 WHist, 1.0 US Hist, 0.5 Economics, 0.5 Government) | 0.5 Economics (asynchronous) | 
 |1 credit in Health (I & II) | 0.5 Health II (asynchronous) |
-|1 credit in Physical Education | 0.5 Physical Education |
-|6 credits in Electives | 0.5 Media <br> 0.5 Construction Math <br> 1.0 AP Psychology <br> 0.5 Community Service <br> 0.5 Integrated Science <br> 0.5 Family and Consumer Science <br> (and any overflow from categories already met) |
+|1 credit in Physical Education | 0.5 Physical Education (repeatable) |
+|6 credits in Electives | 0.5 Welding (1st Semester)  <br> 0.5 Construction Math (1st Semester)  <br> 0.5 Integrated Science (1st Semester) <br> 1.0 AP Psychology <br> 0.5 Community Service (repeatable) <br> 0.5 Family and Consumer Science (2nd Semester) <br> 0.5 Media (2nd semester) <br>(and any overflow from categories already met) |
 
 **Tiny House**
 
