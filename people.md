@@ -42,6 +42,7 @@ K-12 Endorsed in:
 *   Career Trades Generalist
 *   Family and Consumer Studies
 *   Elementary - Multiple Subjects
+*   Principal License (expected June, 2022)
 
 Applicable Experience:
 
