@@ -30,7 +30,7 @@ MakerTeens, while not actively involved with the bus conversion, are expected to
 |1 credit in Physical Education | 0.5 Physical Education (repeatable) |
 |6 credits in Electives | 0.5 Welding (1st Semester)  <br> 0.5 Construction Math (1st Semester)  <br> 0.5 Integrated Science (1st Semester) <br> 1.0 AP Psychology <br> 0.5 Community Service (repeatable) <br> 0.5 Family and Consumer Science (2nd Semester) <br> 0.5 Media (2nd semester) <br>(and any overflow from categories already met) |
 
-**Bus Conversion**
+**Bus Conversion, a.k.a., "Skoolie"**
 
 The core career and technical activity is to convert a school bus over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design from weld fabricating the raised roof to finishing with interior design artwork. Technical aspects also include use of solar voltaics, hydraulics, and programing a microcontroller such as an Arduino. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The bus is sold to cover costs and contribute to next year's project. Resources: https://skoolie.com and https://tinyhousecommunity.com/building-tips/
 
@@ -135,9 +135,9 @@ To increase individualized learning and promote an active classroom, some classe
 
 |Time| Mon / Wed | Tues / Thur | Fri | Weekend |
 |:------------|:------------ |:------------:|:------------| ------------|
-|8:00 - 10:00| AP Studio Art <br>(2 hrs)| Integrated Science <br>(2 hrs)|Language Arts <br>(2 hrs)|Off-site activites|
+|8:00 - 10:00| Construction Math <br>(2 hrs)| Integrated Science <br>(2 hrs)|Language Arts <br>(2 hrs)|Off-site activites|
 |10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) |Family and Consumer Science <br>(1 hr) ||
-|11:00 - 12:00| Media <br>(1 hr)| Construction Math <br>(1 hr) | Band (1 hr)  |  |
+|11:00 - 12:00| Media <br>(1 hr)| AP Studio Art <br>(1 hr) | Band (1 hr)  |  |
 |12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch <br>(0.5 hr) | |
 |12:30 - 2:30| Skoolie <br>(2 hrs)| Skoolie <br>(2 hrs)| Skoolie or Cross-age Volunteer (2 hrs)|  |
 |2:30 - 4:00| Skoolie <br>(1.5 hrs) | Skoolie <br>(1.5 hrs)| Skoolie or Job Shadow (1.5 hrs) | including supporting <br>school sports and music | 
