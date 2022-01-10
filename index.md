@@ -14,11 +14,11 @@
 
  > The goal of Oregon's Measure 98 is to "support the needs of students related to engagement, personalization, achievement, and college and career readiness." 
 
-More than a drop-out prevention program, the MAKERTEENS Alternative Education Career Academy model offers students college credit and career readiness skills as they complete a well-rounded theme-based curriculum and build a Tiny House in one school year. Any high school student may apply, but preference is given to Klamath Falls City School District students who have completed Algebra I but may have risk factors.
+More than a drop-out prevention program, the MAKERTEENS Alternative Education Career Academy is a one-year program for high school students to gain college credit and career readiness skills as they complete a well-rounded theme-based curriculum while converting a retired school bus into a home.  Any high school student may apply, but preference is given to Klamath Falls City School District students who have completed Algebra I or Geometry but may have risk factors.
 
 **Proposal for Full Year Program**  
 
-Provide a dozen high school students the opportunity to build a tiny house on a trailer frame. This same MAKERTEENS cadre will be mentored through classes such as: 
+Provide a dozen high school students the opportunity to gain construction skills and academic knowledge. This same MAKERTEENS cadre will be mentored through classes such as: 
 
 - Integrated Science
 - Construction Math
