@@ -8,7 +8,7 @@
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.html): Blog of progress with visuals!
 
-# MAKERTEENS Summer Program <H1 style="color:red;> IS OUTDATED </H1> # 
+# MAKERTEENS Summer Program <H1 style="color:red;"> IS OUTDATED </H1> # 
 
 **Earn Credit and Money!**: 
 
