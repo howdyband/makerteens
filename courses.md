@@ -15,32 +15,32 @@ MakerTeens, in colaboration with college and school district counselors, offers 
 
 Asynchronous classes are designed in a pre/post test model that allows credit for demonstration of rigourous and authentic proficiency. https://www.oregon.gov/ode/students-and-family/OregonDiploma/PLR/Pages/Proficiency-Grading.aspx
 
-Students are encouraged to take all of the following courses in a single year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the Tiny House construction. 
+Students are encouraged to take all of the following courses in a single year of collegial team building under consistent mentorship of a single teacher. However, due to issues of credit recovery in order to stay on track for graduation, a student may exchange out of up to half of the following classes, but must retain commitment to the bus conversion. 
 
-MakerTeens, who are not actively involved with Tiny House construction, are expected to be working in their asynchronous classes.
+MakerTeens, while not actively involved with the bus conversion, are expected to be working in their asynchronous classes.
 
 |State Requirements: 24 Credits| MakerTeen Opportunities: 10+ credits| 
 |:------------|:------------ |
 |4 credits in English| 1.0 English (individualized per grade level) |
 |3 credits in Math (Algebra I, II, Geometry) | 1.0 Geometry | 
 |3 credits in Science| 0.5 Environmental Science (asynchronous) | 
-|3 credits in Fine & Applied Arts / Second Language / CTE | 2.0 CTE: Construction <br> 1.0 AP Studio Art <br>  0.5 Band (0.25 per semester) <br> 0.5 Spanish (0.25 per semester) | 
+|3 credits in Fine & Applied Arts / Second Language / CTE | 3.0 CTE: Construction <br> 1.0 AP Studio Art <br>  0.5 Band (0.25 per semester) <br> 0.5 Spanish (0.25 per semester) | 
 |3 credits in Social Studies <br>(1.0 WHist, 1.0 US Hist, 0.5 Economics, 0.5 Government) | 0.5 Economics (asynchronous) | 
 |1 credit in Health (I & II) | 0.5 Health II (asynchronous) |
 |1 credit in Physical Education | 0.5 Physical Education (repeatable) |
 |6 credits in Electives | 0.5 Welding (1st Semester)  <br> 0.5 Construction Math (1st Semester)  <br> 0.5 Integrated Science (1st Semester) <br> 1.0 AP Psychology <br> 0.5 Community Service (repeatable) <br> 0.5 Family and Consumer Science (2nd Semester) <br> 0.5 Media (2nd semester) <br>(and any overflow from categories already met) |
 
-**Tiny House**
+**Bus Conversion**
 
-The core career and technical activity is to build a tiny house over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design from weld fabricating the trailer frame to finishing with interior design artwork. Technical aspects also include use of solar voltaics, hydraulics, and programing a microcontroller such as an Arduino. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The house is sold to cover costs and contribute to next year's project. Resource: https://tinyhousecommunity.com/building-tips/
+The core career and technical activity is to convert a school bus over the school year. Student teams research, design, and construct a prototype with a materials list for submission to judges. Every student, after passing shop safety tests, helps to build the winning design from weld fabricating the raised roof to finishing with interior design artwork. Technical aspects also include use of solar voltaics, hydraulics, and programing a microcontroller such as an Arduino. Students rotate through the role of crew boss in each phase of construction to meet timelines. Other students document the process in a video blog on our website. The bus is sold to cover costs and contribute to next year's project. Resources: https://skoolie.com and https://tinyhousecommunity.com/building-tips/
 
-Engineering and building the Tiny House is the vehicle used to display all the participants' growth in other areas. Art, Music, Math, Science, and more join together in this project based experience. The process presents opportunities to experience and direct psychological phenomenon that serve to improve each mind, each character of integrity and perseverance. 
+Engineering and converting the bus is the vehicle used to display all the participants' growth in other areas. Art, Music, Math, Science, and more join together in this project based experience. The process presents opportunities to experience and direct psychological phenomenon that serve to improve each mind, each character of integrity and perseverance. 
 
-Over the course of 36 weeks, approximately 360 hours are set aside for building the Tiny House. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation.
+Over the course of 36 weeks, approximately 360 hours are set aside for converting the bus. If 10 students fully participated every available hour, then 3,600 hours would be expended toward project completion. (One highly skilled journeyman could build the same in about 200 hours.) The excess class time includes training in tool safety, job site safety, practice projects, house design and research, drafting in Sketch-up, learning regulations, and best practices of specialty trades, dealing with the permit process, and taking time for teachable moments related to art, math, science, and psychology. Additionally, the videography team sets up shots and lighting for quality documentation.
 
 **AP Studio Art**
 
-Ceramics (with wheel and kiln), sculpture, drawing, painting, silk screen, weaving, photography, making decorative items for the Tiny House...
+Ceramics (with wheel and kiln), sculpture, drawing, painting, silk screen, weaving, photography, making decorative items for the bus conversion...
 
 Another project based learning that cuts across STEAM classes are the knowledge and skills acquired while building a musical instrument. During the year, approximently 60 hours are dedicated to learning and producing a professional quality product. Options are: electric guitar, tuned marimba, hammered dulcimer, pan flute, or other proposals. 
 Physics: waves, harmonics… Math: calculating volume of resonating spaces, geometry… Chemistry: finishes… Engineering: design, …
@@ -82,7 +82,7 @@ Geometry uses deductive reasoning to understand and construct two and three dime
 
 Mainly practical geometry, engineering, architectural math, and introduction to math needed in electrical and plumbing.
 
-With help from CAD, we design Tiny House models with precision that requires a working knowledge of geometry. Calculating electrical and plumbing flows, loads, and capacities requires algebraic understanding, particularly with an off grid house that relies on solar energy. Transferring a scale model of complex roof angles to making the actual cuts requires confidence in the accuracy of mathematic calculations.
+With help from CAD, we design skoolie models with precision that requires a working knowledge of geometry. Calculating electrical and plumbing flows, loads, and capacities requires algebraic understanding, particularly with an off grid house that relies on solar energy. Transferring a scale model of complex roof angles to making the actual cuts requires confidence in the accuracy of mathematic calculations.
 
 **Language Arts**
 
@@ -114,7 +114,7 @@ Productivity is enhanced by a work crew who maintains top physical fitness throu
 
 **Welding**
 
-In the fall, all students take the first course through Klamath Community College and may continue this pathway toward earning KCC's one-year certificate of completion in welding. Emphasis areas include shielded metal arc welding (SMAW), gas tungsten arc welding (GTAW), gas metal arc welding (GMAW), flux-cored arc welding (FCAW), oxyacetylene welding and cutting (OAW), and basic fabrication. In the spring, advanced students fabricate the trailer frame for next year's Tiny House build.
+In the fall, all students take the first course through Klamath Community College and may continue this pathway toward earning KCC's one-year certificate of completion in welding. Emphasis areas include shielded metal arc welding (SMAW), gas tungsten arc welding (GTAW), gas metal arc welding (GMAW), flux-cored arc welding (FCAW), oxyacetylene welding and cutting (OAW), and basic fabrication. In the spring, advanced students fabricate a trailer frame for a possible Tiny House build.
 
 **Community Involvement** (40 hours per semester)
 
@@ -135,16 +135,16 @@ To increase individualized learning and promote an active classroom, some classe
 
 |Time| Mon / Wed | Tues / Thur | Fri | Weekend |
 |:------------|:------------ |:------------:|:------------| ------------|
-|8:00 - 10:00| AP Studio Art <br>(2 hrs)| Integrated Science <br>(2 hrs)|Family and Consumer Science <br>(2 hrs)|Off-site activites|
-|10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) |Cross-age Volunteer ||
-|11:00 - 12:00| Media <br>(1 hr)| Construction Math <br>(1 hr) | Tiny House  |  |
+|8:00 - 10:00| AP Studio Art <br>(2 hrs)| Integrated Science <br>(2 hrs)|Language Arts <br>(2 hrs)|Off-site activites|
+|10:00 - 11:00| AP Psychology <br>(1 hr)| Health/PE <br>(1 hr) |Family and Consumer Science <br>(1 hr) ||
+|11:00 - 12:00| Media <br>(1 hr)| Construction Math <br>(1 hr) | Band (1 hr)  |  |
 |12:00 - 12:30| Lunch <br>(0.5 hr)| Lunch <br>(0.5 hr) | Lunch <br>(0.5 hr) | |
-|12:30 - 2:30| Tiny House <br>(2 hrs)| Language Arts <br>(2 hrs)| Tiny House or Job Shadow |  |
-|2:30 - 4:00| Welding <br>(1.5 hrs) |Band <br>(1.5 hrs)| Tiny House or Job Shadow | including supporting <br>school sports and music | 
+|12:30 - 2:30| Skoolie <br>(2 hrs)| Skoolie <br>(2 hrs)| Skoolie or Cross-age Volunteer (2 hrs)|  |
+|2:30 - 4:00| Skoolie <br>(1.5 hrs) | Skoolie <br>(1.5 hrs)| Skoolie or Job Shadow (1.5 hrs) | including supporting <br>school sports and music | 
 
 *Friday*
 
-After a couple hours of *Family and Consumer Science* we volunteer to mentor elementary age children, to be mentored by the elderly, and/or take a field trip to a job shadow work site. We work on the Tiny House if behind schedule, but may also catch up with other projects as may be needed for credit recovery.
+After *Family and Consumer Science* we volunteer to mentor elementary age children, to be mentored by the elderly, and/or take a field trip to a job shadow work site. We work on the Skoolie if behind schedule, but may also catch up with other projects as may be needed for credit recovery.
 
 *Saturday*
 
