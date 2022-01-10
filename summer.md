@@ -1,5 +1,5 @@
  - [Home](index.html): Proposal for School Year Program
--  **[Summer](summer.html): Proposal for Summer Program**
+-  **[Summer](summer.html): Proposal for Summer 2021 Program**
  - [About](about.html): Analysis of Need, Current Efforts, Demographics
  - [People](people.html): Students, Parents, Teacher, Advisors
  - [Courses](courses.html): Descriptions and Schedule
@@ -8,7 +8,7 @@
  - [Outcomes](outcomes.html): Habits of Mind, Projections, Proficiencies
  - [Timeline](timeline.html): Blog of progress with visuals!
 
-# MAKERTEENS Summer Program <H1><span style="color:red">OUTDATED</span> </h1> # 
+# ~~MAKERTEENS Summer Program~~  OUTDATED # 
 
 **Earn Credit and Money!**: 
 
