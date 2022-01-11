@@ -15,7 +15,7 @@ In order to operate the bus conversion project as outlined, tools and a work spa
 
 **TOOLS** (est. $19,000)*
 To complile the cost of tools, I received input from the Talent City bus project, the KCC construction expansion, and the skoolie.com threads. 
-The total power cost of power tools is estimated to be $15,000. This will allow 16 students to share 2 or 3 battery powered tools of the same type, as well have access to a table saw, welder, and other shared power tools.
+The total cost of power tools is estimated to be $15,000. This will allow 16 students to share 2 or 3 battery powered tools of the same type, as well have access to a table saw, welder, and other shared power tools.
 The total cost of hand tools is estimated to be $4000. This includes such items as clamps, hammers, pliers, files, chisels, and consumables such as sand paper, and blades. Also included is safety gear such as hard hats, glasses, gloves, knee pads, dust masks, and hearing protection.
 
 **SPACE** (cost unknown)
@@ -77,7 +77,7 @@ The cost of furnishing a bus with a modern kitchen, bathroom, HVAC, and smart ho
 |3	|48-22-8815	|Home Depot|	Milwaukee 15lb Locking Tool Lanyard	|$75|
 |3	|455	|Home Depot|	Guardian Fall Protection Reusable Roof Anchor	|$60|
 |1	|SawStop	|SawStop| Table Saw	|$3,000|
-|1	||Harbor Freight|	|Band Saw	|$600|
+|1	||Harbor Freight|	Band Saw	|$600|
 |1	||	Harbor Freight|	Bench Grider	|$100|
 |1	||Home Depot	|13" Dewalt Planer	|$400|
 |1	||Harbor Freight	|Drill Press	|$200|
