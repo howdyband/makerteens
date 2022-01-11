@@ -51,35 +51,36 @@ The cost of furnishing a bus with a modern kitchen, bathroom, HVAC, and smart ho
 * $2000 Misc., marketing, mechanical upgrades . . .
 
 **ITEMIZED POWER TOOLS**
-KLC Quantity for <br>class of 16|	Model #	|Location	|Item Description	|Total Cost
-3	|2801-22CT	|Home Depot|	Milwaukee M18 Drill/Driver	|$540
-3	|2850-22CT	|Home Depot	|"Milwaukee M18 Impact Driver"	|$540
-2	|2744-21	|Home Depot|	Milwaukee M18 Cordless Framing Nailer Kit	|$900
-3	|2830-20	|Home Depot|	Milwaukee M18 Cordless Circular Saw	|$810
-3	|2621-20	|Home Depot|	Milwaukee M18 Cordless Reciprocating Saw	|$390
-2	|2742-21CT	|Home Depot|	Milwaukee M18 Cordless 16 – Gauge Finish Nailer Kit	|$840
-3	|2626-21CP	|Home Depot|	Milwaukee M18 Cordless Mult-Tool Kit|	$600
-3	|2804-22|	Home Depot|	Milwaukee M18 Cordless Mult- Tool Kit	|$900
-1	|2718-22HD	|Home Depot|	Milwaukee M18 ¾ Inch SDS – MAX Rotary Hammer Kit	|$1,000
-1	|2739-20-48-08-0551	|Home Depot|	Milwaukee M18 Dual bevel sliding Compound Miter Saw	|$860
-1	|2736-21HD-48-08-0561	|Home Depot|	Milwaukee M18 Cordless Table Saw Kit w/ stand	|$670
-3	|MLSW024|	Home Depot|	Milwaukee 16x24 Aluminum Framing Square	|$78
-1	|48-59-1806	|Home Depot|	Milwaukee M18 6 – Port Charging Station	|$130
-3	|48-11-1812|Home Depot|	Milwaukee M18 12.0Ah Battery Pack	|$750
-1	|NXT 1A06	|Home Depot|	Werner 6 ft Ladder	|$88
-1	|NXT1A10	|Home Depot|	Werner 10 ft Ladder	|$215
-1	|D6224-2	|Home Depot|	Werner 24 ft Extension Ladder	|$320
-3	|K122023	|Home Depot|	Werner Base wear Std Harness & 6’ Fall lanyard kit	|$300
-3	|11203	|Home Depot|	Guardian Fall Protection, Internal shock lanyard double climbing lanyard	|$210
-3	|L242050	|Home Depot|	Upgear by Werner 50’ Positioning rope w/ lifeline	|$270
-3	|48-22-8815	|Home Depot|	Milwaukee 15lb Locking Tool Lanyard	|$75
-3	|455	|Home Depot|	Guardian Fall Protection Reusable Roof Anchor	|$60
-1	|SawStop	|SawStop| Table Saw	|$3,000
-1	||Harbor Freight|	|Band Saw	|$600
-1	||	Harbor Freight|	Bench Grider	|$100
-1	||Home Depot	|13" Dewalt Planer	|$400
-1	||Harbor Freight	|Drill Press	|$200
-1	||Harbor Freight|	Multipurpose Welder	|$800
+|:------------|:------------ |:------------|:------------ |:------------ |
+KLC Quantity for <br>class of 16|	Model #	|Location	|Item Description	|Total Cost|
+3	|2801-22CT	|Home Depot|	Milwaukee M18 Drill/Driver	|$540|
+3	|2850-22CT	|Home Depot	|"Milwaukee M18 Impact Driver"	|$540|
+2	|2744-21	|Home Depot|	Milwaukee M18 Cordless Framing Nailer Kit	|$900|
+3	|2830-20	|Home Depot|	Milwaukee M18 Cordless Circular Saw	|$810|
+3	|2621-20	|Home Depot|	Milwaukee M18 Cordless Reciprocating Saw	|$390|
+2	|2742-21CT	|Home Depot|	Milwaukee M18 Cordless 16 – Gauge Finish Nailer Kit	|$840|
+3	|2626-21CP	|Home Depot|	Milwaukee M18 Cordless Mult-Tool Kit|	$600|
+3	|2804-22|	Home Depot|	Milwaukee M18 Cordless Mult- Tool Kit	|$900|
+1	|2718-22HD	|Home Depot|	Milwaukee M18 ¾ Inch SDS – MAX Rotary Hammer Kit	|$1,000|
+1	|2739-20-48-08-0551	|Home Depot|	Milwaukee M18 Dual bevel sliding Compound Miter Saw	|$860|
+1	|2736-21HD-48-08-0561	|Home Depot|	Milwaukee M18 Cordless Table Saw Kit w/ stand	|$670|
+3	|MLSW024|	Home Depot|	Milwaukee 16x24 Aluminum Framing Square	|$78|
+1	|48-59-1806	|Home Depot|	Milwaukee M18 6 – Port Charging Station	|$130|
+3	|48-11-1812|Home Depot|	Milwaukee M18 12.0Ah Battery Pack	|$750|
+1	|NXT 1A06	|Home Depot|	Werner 6 ft Ladder	|$88|
+1	|NXT1A10	|Home Depot|	Werner 10 ft Ladder	|$215|
+1	|D6224-2	|Home Depot|	Werner 24 ft Extension Ladder	|$320|
+3	|K122023	|Home Depot|	Werner Base wear Std Harness & 6’ Fall lanyard kit	|$300|
+3	|11203	|Home Depot|	Guardian Fall Protection, Internal shock lanyard double climbing lanyard	|$210|
+3	|L242050	|Home Depot|	Upgear by Werner 50’ Positioning rope w/ lifeline	|$270|
+3	|48-22-8815	|Home Depot|	Milwaukee 15lb Locking Tool Lanyard	|$75|
+3	|455	|Home Depot|	Guardian Fall Protection Reusable Roof Anchor	|$60|
+1	|SawStop	|SawStop| Table Saw	|$3,000|
+1	||Harbor Freight|	|Band Saw	|$600|
+1	||	Harbor Freight|	Bench Grider	|$100|
+1	||Home Depot	|13" Dewalt Planer	|$400|
+1	||Harbor Freight	|Drill Press	|$200|
+1	||Harbor Freight|	Multipurpose Welder	|$800|
 
 
 ***The MakerTeens proposal is to sell the resulting Skoolie in order to fund similiar subsequent CTE construction projects. Grant purchased tools are also designated for such subsequent projects. Ideally, this initial investment helps toward creating a self-sustaining CTE program.***
