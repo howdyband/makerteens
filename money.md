@@ -77,11 +77,60 @@ The cost of furnishing a bus with a modern kitchen, bathroom, HVAC, and smart ho
 |3	|48-22-8815	|Home Depot|	Milwaukee 15lb Locking Tool Lanyard	|$75|
 |3	|455	|Home Depot|	Guardian Fall Protection Reusable Roof Anchor	|$60|
 |1	|SawStop	|SawStop| Table Saw	|$3,000|
-|1	||Harbor Freight|	Band Saw	|$600|
-|1	||	Harbor Freight|	Bench Grider	|$100|
+|1	|Central Machinery|Harbor Freight|	Band Saw	|$400|
+|1	|Bauer|	Harbor Freight|	Bench Grider	|$100|
 |1	||Home Depot	|13" Dewalt Planer	|$400|
-|1	||Harbor Freight	|Drill Press	|$200|
-|1	||Harbor Freight|	Multipurpose Welder	|$800|
+|1	|Central Machinery|Harbor Freight	|Drill Press	|$300|
+|1	|Vulcan|Harbor Freight|	Multipurpose Welder	|$800|
+
+**ITEMIZED HAND TOOLS** (est. $1,800)
+|KLC Quantity for <br>class of 16|	Model #	|Location	|Item Description	|Total Cost|
+|:------------|:------------ |:------------|:------------ |:------------ |
+8|	Bremen	|Harbor Freight| 36" Bar Clamps|$160|
+8|	Bremen	|Harbor Freight| 24" Bar Clamps|$120|
+8| Pittsburgh	|Harbor Freight| 8" C Clamps|$60|
+8|	Pittsburgh	|Harbor Freight|	4" C Clamps|$30|
+3|	Portland	|Harbor Freight|	hand saws (rip/cross/flush)|$30|
+4|	Portland	|Harbor Freight|	saws (coping, hack)|$40|
+8|	Pittsburgh	|Harbor Freight|	files, rasps, chisles|$40|
+4|	Hercules	|Harbor Freight|	sand paper (disk, sheet, belt)|$80|
+4| Ames	|Harbor Freight|	electrician tools|$200|
+4|	Pittsburgh	|Harbor Freight|	plumbers tools|$120|
+4|	Vulcan	|Harbor Freight|	welding supplies|$100|
+4|	Pittsburgh	|Harbor Freight	bits| (router, drill)|$100|
+4|	Pittsburgh	|Harbor Freight|	sockets (SAE, metric)|$100|
+8|	Pittsburgh	|Harbor Freight|	hammers (framing, finsh, sledge)|$120|
+8|	Pittsburgh	|Harbor Freight|	tool belts|$160|
+8|	Pittsburgh	|Harbor Freight|	Squares (combo, speed, miter)|$80|
+4|	Pittsburgh	|Harbor Freight|	Chalk Lines|$40|
+4|	Pittsburgh	|Harbor Freight|	Nail Pullers|$40|
+8|	Bauer	|Harbor Freight|	Tape Measures|$80|
+8|	Pittsburgh	|Harbor Freight|	Utility Knives, pencils|$40|
+
+**ITEMIZED SAFETY GEAR** (est. $2,260)
+|KLC Quantity for <br>class of 16|	Model #	|Location	|Item Description	|Total Cost|
+|:------------|:------------ |:------------|:------------ |:------------ |
+18|	Workhorse	|Harbor Freight|	Hard Hats|	$180|
+20|	Western Safety	|Harbor Freight|	safety glasses, shields|	$100|
+18|	Ranger	|Harbor Freight|	Hearing Protection (plugs, muffs)|	$180|
+16|	Hardy	|Harbor Freight|	Gloves (leather, latex)|	$200|
+16|	$100 stipend/student	|Coastal|	Work Boots (Safety Toe)|	$1,600|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ***The MakerTeens proposal is to sell the resulting Skoolie in order to fund similiar subsequent CTE construction projects. Grant purchased tools are also designated for such subsequent projects. Ideally, this initial investment helps toward creating a self-sustaining CTE program.***
