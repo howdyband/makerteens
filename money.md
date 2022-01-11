@@ -50,7 +50,7 @@ The cost of furnishing a bus with a modern kitchen, bathroom, HVAC, and smart ho
 * $1000 Smart Home security system
 * $2000 Misc., marketing, mechanical upgrades . . .
 
-**ITEMIZED POWER TOOLS**
+**ITEMIZED POWER TOOLS** (est. $15,000)
 
 |KLC Quantity for <br>class of 16|	Model #	|Location	|Item Description	|Total Cost|
 |:------------|:------------ |:------------|:------------ |:------------ |
