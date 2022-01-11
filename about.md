@@ -26,16 +26,16 @@ MAKERTEENS delineate entrepreneurial plans as employers, prepare resumes as empl
 
 **Potential Barriers**
 
-A self-contained alternative education program within a traditional school has the intrinsic danger of stigma. Additionally, the risk factors from inappropriate peer associations may be compounded. Disengagement with “normal” school activities can accelerate the tendency to drop out of school. A concentration of impulsive youth with negative attitudes can feed on each other in an escalation of poor behaviors and general rebelliousness. For the uninitiated, being regularly exposed to delinquency may be a gateway to illicit substance abuse, pornography, foul language, and a host of other behaviors in a type of prison yard training ground. Teacher awareness of such potential to downward spiral, empowers the teacher to nip problems in the bud, redirect negative energy, maintain firm expectations  and supports for success, and immediately trouble shoot the function of counter-productive behaviors by collaborating with parents, colleagues, and students as appropriate.
+A self-contained alternative education program within a traditional school has the intrinsic danger of stigma. Additionally, the risk factors from inappropriate peer associations may be compounded. Disengagement with "normal" school activities can accelerate the tendency to drop out of school. A concentration of impulsive youth with negative attitudes can feed on each other in an escalation of poor behaviors and general rebelliousness. For the uninitiated, being regularly exposed to delinquency may be a gateway to illicit substance abuse, pornography, foul language, and a host of other behaviors in a type of prison yard training ground. Teacher awareness of such potential to downward spiral, empowers the teacher to nip problems in the bud, redirect negative energy, maintain firm expectations  and supports for success, and immediately trouble shoot the function of counter-productive behaviors by collaborating with parents, colleagues, and students as appropriate. In order to provide a dynamic threashold of positive peer leadership, up to 40% of students who enter the program are without a history of deliquency, significant trauma impacts, credit deficiencies, and low gpa.
 
 **Philosophy of Education**
 
 According to social constructivist theory, the group defines the paradigms of reality and sets expectations. A purely discovery based constructivist approach is inefficient use of time and makes ineffectual progress. The romantic notion that students can solely guide themselves is rejected. However, with training, students move toward self-directed group discussion within a context of mutual respect and encouragement from academic teammates. Likewise, individuals are given strategies for self-monitored productive learning. 
 
 **Myths** to change behavior:
-1. Education creates behavior change (No, Information is not enough.) Information needs to be tangible, personalized, and interactive.
-2. You need to change attitudes in order to change behaviors. (No, behaviors change attitudes, not typically the other way around.)
-3. People know what motivates them to take action (No, social scientist know social norms are the most powerful influence. 
+1. Education creates behavior change. ~ No, Information is not enough. Information needs to be tangible, personalized, and interactive.
+2. You need to first change attitudes in order to change behaviors. ~ No, behaviors change attitudes, not typically the other way around.
+3. People know what motivates them to take action. ~ No, the powerful influence of social norms are often subconscience motivators. 
 
 It is not a myth that well structured learning environments offer appropriate scaffolds toward predefined outcomes.
 
