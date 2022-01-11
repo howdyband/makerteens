@@ -13,10 +13,10 @@
 **COSTS**
 In order to operate the bus conversion project as outlined, tools and a work space and are necessary. The startup costs could be amortized over time. 
 
-**TOOLS** (est. $19,000)*
+**TOOLS** (est. $17,000)*
 To complile the cost of tools, I received input from the Talent City bus project, the KCC construction expansion, and the skoolie.com threads. 
 The total cost of power tools is estimated to be $15,000. This will allow 16 students to share 2 or 3 battery powered tools of the same type, as well have access to a table saw, welder, and other shared power tools.
-The total cost of hand tools is estimated to be $4000. This includes such items as clamps, hammers, pliers, files, chisels, and consumables such as sand paper, and blades. Also included is safety gear such as hard hats, glasses, gloves, knee pads, dust masks, and hearing protection.
+The total cost of hand tools is estimated to be $2000. This includes such items as clamps, hammers, pliers, files, chisels, and consumables such as sand paper, and blades. Also included is safety gear such as hard hats, glasses, gloves, knee pads, dust masks, and hearing protection.
 
 **SPACE** (cost unknown)
 Ideally the space will be large enough to accommodate two full size (40’) busses in order to maximize student productivity, and avoid having too many student workers constrained to a single bus. Thus, a garage warehouse having two bays, with 14’ door openings, would allow movement of a vehicle that approaches the DMV maximum height of 13.5’. Floor space is needed to store construction materials, appliances for installation, handle sheet goods, and manufacturing processes involving such tools as a table saw, miter saw, and welder. A 220 volt power outlet should be available. Given that 50% of the students’ time is involved with academics, space is needed for computer assisted instruction with CAD and book work. A toilet facility and sink must be accessible. All considered, an area of at least 50’ x 50’ would allow this project proposal to function. (2500 sq ft, leased at $10 sf/yr, would be $25,000. Constructed at $15 sq ft would be $37,500.)
@@ -29,7 +29,8 @@ Other costs may incur to cover school lunches and student transportation.
 If a single teacher held multiple endorsements to cover all the areas of instruction, then to be cost effective, only that single teacher would be needed to run the program. However, in order to have students under adult supervision at all times, a para professional would also need to be hired. 
 
 **BUS CONVERSION** (est. $30,000)
-The cost of furnishing a bus with a modern kitchen, bathroom, HVAC, and smart home features can vary widely. Adding solar would bring ownership cost down over time.
+The cost of furnishing a bus with a modern kitchen, bathroom, HVAC, and smart home features can vary widely. Adding solar would bring ownership cost down over time. A $60,000 sale of the bus would recover initital material costs, and supply materials for a second bus conversion. A $60,000 sale of the second bus would recover all the startup costs for tools and workspace, as well as have funds left over to outfit a third bus conversion. Thus, with the exception of teaching staff salary, the program is expected to be self-sustaining.
+
 * $2000 Lumber 
 * $3000 Doors, windows, skylights
 * $1000 Sheet metal to cover windows and for roof raise
@@ -115,21 +116,6 @@ The cost of furnishing a bus with a modern kitchen, bathroom, HVAC, and smart ho
 18|	Ranger	|Harbor Freight|	Hearing Protection (plugs, muffs)|	$180|
 16|	Hardy	|Harbor Freight|	Gloves (leather, latex)|	$200|
 16|	$100 stipend/student	|Coastal|	Work Boots (Safety Toe)|	$1,600|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
