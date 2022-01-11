@@ -1,5 +1,5 @@
  - [Home](index.html): Proposal
- - [About](about.html): Analysis of Need, Current Efforts, Demographics
+ - [About](about.html): Analysis of Need,. Efforts, Demographics
  - [Summer](summer.html): Summer 2021 proposal
  - [People](people.html): Students, Parents, Teacher, Advisors
  - [Courses](courses.html): Descriptions and Schedule
