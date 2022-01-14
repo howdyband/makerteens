@@ -28,7 +28,7 @@ MAKERTEENS persist in productivity, integrity, care and team work. We use restor
 
 **Dress Code**:
 
-As an outward demonstration of an inward commitment to change, during second semester students will receive haircuts that tend toward the military style. Students will also begin wearing professional business attire two days per week.
+As an outward demonstration of an inward commitment to change, during second semester students will begin wearing professional business attire two days per week.
 
 **Merit Pay**:
 
