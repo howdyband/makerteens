@@ -76,7 +76,7 @@ Science comes first in the STEAM project based model. Scientific thinking is int
 **Geometry**
 
 Prerequisite: Algebra 1 <br>
-Geometry uses deductive reasoning to understand and construct two and three dimensional models. In the practical application of design, computer assisted drafting (CAD) is used to demonstrate proficiency through course exercises. 
+Geometry uses deductive reasoning to understand and construct two and three dimensional models. In the practical application of design, computer assisted drafting (CAD) is used to demonstrate proficiency through course exercises. The first half of the course (75 hours) provides a comprehensive overview of [Applied Geometry](geometry.html).
 
 **Construction Math**
 
