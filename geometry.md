@@ -1,5 +1,3 @@
-
-```markdown
 # Course Scope and Sequence: Geometry Summer Program
 
 **Overview**: This 12-day (6 hours/day, 4 days/week, 3 weeks) course targets high school students who failed geometry, focusing on hands-on applications in woodshop and clay to engage disengaged learners. Weeks 2 and 3 include a 4-week gap for video-based design work.
@@ -175,4 +173,3 @@
   - 4 hrs: Presentations (15 min/student, assuming ~16 students).
   - 1 hr: Reflection, feedback.
 - **Assessment**: Evaluate projects/presentations on geometric accuracy, creativity/quality, and clarity in explaining principles.
-```
